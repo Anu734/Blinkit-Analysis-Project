@@ -1,0 +1,1001 @@
+Item_ID,Item_Name,Item_Type,Item_Fat_Content,Item_Weight (kg),Item_MRP (₹),Item_Visibility,Outlet_ID,Outlet_Size,Outlet_Location_Type,Outlet_Type,Item_Outlet_Sales (₹),Delivery_Time (mins),Customer_Rating
+ITEM0001,Economy,Vegetables,Low Fat,7.18,109.7,0.213,OUT013,Large,Tier 3,Grocery Store,7288.44,54,3.1
+ITEM0002,See,Dairy,Low Fat,3.97,390.18,0.236,OUT027,Large,Tier 1,Supermarket Type1,13042.58,18,4.6
+ITEM0003,Make,Bakery,Regular,8.15,205.83,0.222,OUT018,Medium,Tier 2,Supermarket Type1,18323.88,36,3.3
+ITEM0004,Player,Household,Low Fat,9.76,205.31,0.096,OUT013,Small,Tier 3,Supermarket Type1,11809.16,46,4.2
+ITEM0005,Process,Fruits,Regular,7.35,66.29,0.082,OUT027,Medium,Tier 3,Grocery Store,12730.49,19,2.9
+ITEM0006,Teach,Household,Regular,3.83,336.77,0.033,OUT018,Medium,Tier 2,Supermarket Type1,18933.36,41,3.3
+ITEM0007,North,Vegetables,Low Fat,7.78,58.9,0.062,OUT027,Medium,Tier 1,Supermarket Type1,8119.35,52,2.7
+ITEM0008,According,Bakery,Regular,8.71,358.98,0.171,OUT049,Small,Tier 1,Supermarket Type1,856.71,25,2.6
+ITEM0009,Security,Fruits,Low Fat,2.14,435.19,0.11,OUT018,Medium,Tier 1,Supermarket Type1,14623.65,17,4.0
+ITEM0010,Which,Dairy,Low Fat,4.1,198.71,0.076,OUT010,Medium,Tier 3,Supermarket Type1,11864.23,31,4.1
+ITEM0011,Paper,Fruits,Low Fat,2.14,316.05,0.069,OUT013,Small,Tier 1,Grocery Store,10315.25,47,4.4
+ITEM0012,Minute,Fruits,Low Fat,3.38,24.74,0.14,OUT010,Large,Tier 2,Supermarket Type1,10673.16,43,2.8
+ITEM0013,Culture,Frozen Foods,Low Fat,2.14,448.68,0.177,OUT018,Large,Tier 1,Supermarket Type2,5289.34,21,4.6
+ITEM0014,Religious,Household,Low Fat,4.65,118.82,0.234,OUT018,Large,Tier 2,Supermarket Type2,7584.46,22,4.3
+ITEM0015,Soon,Fruits,Regular,6.66,275.81,0.239,OUT049,Small,Tier 2,Grocery Store,14308.09,40,3.0
+ITEM0016,Scene,Snacks,Low Fat,5.01,123.83,0.129,OUT010,Large,Tier 3,Grocery Store,9094.67,50,4.8
+ITEM0017,Owner,Beverages,Regular,3.43,490.74,0.04,OUT010,Small,Tier 3,Supermarket Type2,8835.22,51,4.4
+ITEM0018,Organization,Dairy,Low Fat,2.63,131.01,0.053,OUT013,Large,Tier 1,Supermarket Type2,4243.73,36,4.7
+ITEM0019,Book,Vegetables,Low Fat,5.19,407.29,0.215,OUT018,Large,Tier 2,Supermarket Type1,14350.57,29,3.2
+ITEM0020,Weight,Frozen Foods,Regular,3.44,334.62,0.116,OUT018,Medium,Tier 2,Supermarket Type2,3040.62,18,2.8
+ITEM0021,Least,Vegetables,Regular,5.5,109.18,0.062,OUT013,Large,Tier 3,Grocery Store,19842.61,17,4.6
+ITEM0022,Industry,Bakery,Regular,1.84,467.41,0.11,OUT010,Medium,Tier 1,Supermarket Type2,4535.03,51,3.7
+ITEM0023,Concern,Household,Regular,9.65,166.2,0.069,OUT013,Large,Tier 2,Supermarket Type2,19521.14,44,3.9
+ITEM0024,Foreign,Dairy,Low Fat,7.71,338.55,0.24,OUT018,Large,Tier 3,Grocery Store,17142.71,58,4.6
+ITEM0025,Magazine,Household,Low Fat,1.4,100.33,0.153,OUT010,Large,Tier 1,Grocery Store,19402.27,25,4.5
+ITEM0026,Point,Dairy,Low Fat,2.23,422.49,0.197,OUT027,Medium,Tier 1,Supermarket Type1,9780.56,12,2.9
+ITEM0027,Community,Beverages,Regular,0.78,288.99,0.121,OUT018,Large,Tier 2,Supermarket Type1,11000.17,35,3.0
+ITEM0028,Major,Fruits,Regular,3.6,354.89,0.101,OUT013,Medium,Tier 2,Supermarket Type2,19885.6,39,3.5
+ITEM0029,Executive,Frozen Foods,Regular,5.9,239.31,0.087,OUT018,Large,Tier 3,Supermarket Type1,16286.94,20,4.6
+ITEM0030,Interview,Dairy,Low Fat,5.02,403.77,0.193,OUT013,Large,Tier 1,Grocery Store,17374.52,47,3.9
+ITEM0031,Response,Beverages,Regular,2.15,315.64,0.098,OUT010,Large,Tier 2,Grocery Store,3894.05,21,3.9
+ITEM0032,Service,Bakery,Low Fat,7.83,480.29,0.12,OUT010,Large,Tier 1,Supermarket Type1,7053.58,27,3.8
+ITEM0033,Particular,Beverages,Low Fat,9.26,31.39,0.106,OUT027,Small,Tier 2,Supermarket Type2,16757.88,49,3.4
+ITEM0034,People,Dairy,Low Fat,7.85,397.32,0.242,OUT049,Medium,Tier 1,Supermarket Type2,14260.79,52,4.9
+ITEM0035,Many,Snacks,Regular,2.55,213.57,0.029,OUT013,Medium,Tier 2,Supermarket Type1,9769.57,38,4.1
+ITEM0036,Mouth,Frozen Foods,Regular,3.03,403.5,0.031,OUT013,Small,Tier 2,Grocery Store,7391.33,37,4.0
+ITEM0037,Floor,Snacks,Regular,8.6,247.58,0.041,OUT027,Small,Tier 1,Supermarket Type2,5503.92,54,4.9
+ITEM0038,Medical,Bakery,Regular,1.6,462.13,0.02,OUT018,Medium,Tier 1,Supermarket Type2,10534.81,53,2.9
+ITEM0039,Myself,Snacks,Regular,3.93,284.85,0.196,OUT049,Small,Tier 1,Supermarket Type2,4223.37,52,3.6
+ITEM0040,Him,Snacks,Regular,6.99,481.48,0.232,OUT049,Medium,Tier 1,Supermarket Type2,2801.06,52,4.7
+ITEM0041,Executive,Vegetables,Low Fat,1.87,491.68,0.186,OUT010,Large,Tier 2,Supermarket Type1,3774.23,54,3.6
+ITEM0042,Fine,Beverages,Low Fat,5.31,231.95,0.126,OUT027,Small,Tier 3,Supermarket Type1,10823.76,53,3.0
+ITEM0043,Conference,Vegetables,Regular,6.47,296.21,0.151,OUT010,Small,Tier 3,Supermarket Type2,9259.82,46,2.5
+ITEM0044,Coach,Vegetables,Regular,7.32,257.67,0.183,OUT027,Small,Tier 2,Grocery Store,9469.69,54,4.4
+ITEM0045,Second,Vegetables,Low Fat,6.09,300.69,0.091,OUT018,Medium,Tier 1,Supermarket Type1,2703.96,51,2.7
+ITEM0046,Recently,Snacks,Regular,2.15,369.47,0.104,OUT013,Medium,Tier 2,Supermarket Type2,8087.23,36,3.0
+ITEM0047,Record,Fruits,Regular,7.51,397.28,0.124,OUT013,Small,Tier 3,Grocery Store,8163.17,47,3.4
+ITEM0048,Discuss,Snacks,Regular,1.67,210.0,0.093,OUT010,Medium,Tier 2,Supermarket Type1,6521.0,20,3.4
+ITEM0049,Serve,Snacks,Low Fat,8.95,345.03,0.193,OUT018,Small,Tier 1,Supermarket Type1,6401.67,41,2.9
+ITEM0050,They,Dairy,Regular,6.88,99.95,0.088,OUT049,Large,Tier 1,Grocery Store,16664.77,50,4.9
+ITEM0051,Learn,Frozen Foods,Regular,2.35,444.78,0.195,OUT049,Large,Tier 2,Supermarket Type1,7574.79,10,3.4
+ITEM0052,Heavy,Beverages,Regular,1.65,226.5,0.033,OUT018,Small,Tier 1,Supermarket Type2,4665.72,12,2.9
+ITEM0053,Page,Snacks,Regular,0.77,250.46,0.129,OUT027,Large,Tier 2,Grocery Store,19796.3,50,4.3
+ITEM0054,Stand,Household,Regular,1.65,90.39,0.026,OUT018,Medium,Tier 3,Grocery Store,18714.15,46,3.3
+ITEM0055,Social,Bakery,Low Fat,1.16,240.77,0.058,OUT049,Medium,Tier 3,Grocery Store,6190.54,50,3.7
+ITEM0056,Drive,Bakery,Low Fat,7.07,123.3,0.217,OUT018,Small,Tier 1,Supermarket Type1,17881.3,54,4.2
+ITEM0057,Travel,Frozen Foods,Low Fat,9.86,319.03,0.139,OUT013,Small,Tier 1,Supermarket Type2,7946.45,38,2.8
+ITEM0058,Civil,Fruits,Regular,4.59,117.58,0.109,OUT049,Large,Tier 2,Grocery Store,15569.81,18,3.3
+ITEM0059,Loss,Dairy,Low Fat,8.17,289.15,0.134,OUT027,Medium,Tier 1,Grocery Store,10203.42,51,2.7
+ITEM0060,History,Dairy,Regular,8.51,126.48,0.197,OUT027,Medium,Tier 3,Supermarket Type2,19836.73,17,4.2
+ITEM0061,Heavy,Fruits,Regular,8.35,195.89,0.187,OUT018,Medium,Tier 1,Supermarket Type2,12545.39,46,3.2
+ITEM0062,Learn,Household,Regular,9.4,442.52,0.047,OUT018,Small,Tier 2,Grocery Store,3250.55,35,2.9
+ITEM0063,Area,Beverages,Low Fat,6.87,262.3,0.098,OUT013,Medium,Tier 3,Grocery Store,14674.97,14,2.6
+ITEM0064,Center,Vegetables,Regular,8.97,87.26,0.125,OUT049,Medium,Tier 3,Grocery Store,12752.73,18,3.5
+ITEM0065,Piece,Snacks,Regular,5.14,377.23,0.187,OUT027,Large,Tier 3,Supermarket Type2,4548.01,13,4.5
+ITEM0066,Show,Household,Regular,8.67,440.44,0.156,OUT049,Small,Tier 1,Supermarket Type2,492.23,36,2.9
+ITEM0067,Say,Fruits,Regular,6.85,20.47,0.087,OUT049,Large,Tier 1,Supermarket Type2,6239.51,42,4.6
+ITEM0068,Book,Bakery,Low Fat,8.65,233.88,0.102,OUT018,Medium,Tier 2,Supermarket Type1,566.57,42,4.6
+ITEM0069,Financial,Frozen Foods,Regular,3.86,355.56,0.012,OUT010,Medium,Tier 2,Supermarket Type2,1228.96,35,4.1
+ITEM0070,Order,Household,Low Fat,6.01,413.06,0.155,OUT018,Small,Tier 2,Supermarket Type1,1749.48,26,3.2
+ITEM0071,Position,Dairy,Regular,9.05,428.17,0.23,OUT013,Large,Tier 2,Supermarket Type1,10802.69,29,4.9
+ITEM0072,Nature,Vegetables,Regular,6.25,144.46,0.242,OUT010,Medium,Tier 1,Supermarket Type1,16947.33,54,2.9
+ITEM0073,Later,Vegetables,Low Fat,6.96,386.36,0.234,OUT027,Small,Tier 1,Grocery Store,17064.81,28,3.7
+ITEM0074,Audience,Snacks,Low Fat,9.4,64.71,0.153,OUT049,Large,Tier 2,Grocery Store,4704.45,48,3.0
+ITEM0075,Teach,Fruits,Low Fat,7.35,74.3,0.172,OUT018,Medium,Tier 1,Grocery Store,19654.81,28,4.5
+ITEM0076,Official,Vegetables,Low Fat,1.2,62.67,0.121,OUT013,Large,Tier 1,Supermarket Type2,496.15,45,4.4
+ITEM0077,Business,Vegetables,Regular,3.98,255.64,0.206,OUT049,Small,Tier 2,Supermarket Type1,19941.41,46,3.0
+ITEM0078,Threat,Beverages,Low Fat,6.27,214.66,0.154,OUT010,Small,Tier 2,Grocery Store,11791.15,54,3.1
+ITEM0079,East,Dairy,Low Fat,7.38,128.57,0.101,OUT010,Large,Tier 3,Supermarket Type2,7065.55,28,2.9
+ITEM0080,Really,Dairy,Low Fat,7.72,394.73,0.029,OUT027,Medium,Tier 3,Supermarket Type1,11087.69,33,4.7
+ITEM0081,Loss,Frozen Foods,Low Fat,5.77,129.81,0.23,OUT027,Large,Tier 2,Grocery Store,7798.74,36,4.1
+ITEM0082,Rock,Household,Low Fat,6.73,276.36,0.016,OUT027,Small,Tier 1,Grocery Store,7720.21,28,3.7
+ITEM0083,Information,Dairy,Low Fat,0.77,151.01,0.063,OUT013,Medium,Tier 1,Supermarket Type2,10952.77,14,4.8
+ITEM0084,Guy,Beverages,Low Fat,6.72,110.3,0.241,OUT027,Large,Tier 3,Supermarket Type2,9057.04,55,2.9
+ITEM0085,End,Snacks,Low Fat,2.48,202.9,0.156,OUT027,Small,Tier 2,Supermarket Type2,3910.38,27,4.7
+ITEM0086,Great,Beverages,Regular,2.87,407.28,0.081,OUT013,Small,Tier 1,Supermarket Type1,3116.13,51,2.8
+ITEM0087,Sound,Frozen Foods,Low Fat,2.61,146.3,0.135,OUT013,Medium,Tier 1,Supermarket Type2,13606.96,32,3.8
+ITEM0088,Fund,Vegetables,Regular,9.26,489.42,0.113,OUT027,Large,Tier 1,Supermarket Type2,1866.36,30,3.2
+ITEM0089,According,Beverages,Regular,4.17,412.03,0.084,OUT013,Large,Tier 1,Grocery Store,19860.47,38,4.3
+ITEM0090,Building,Bakery,Regular,8.01,128.04,0.132,OUT049,Large,Tier 1,Supermarket Type2,11577.99,47,4.9
+ITEM0091,Item,Snacks,Low Fat,8.87,110.54,0.196,OUT018,Medium,Tier 3,Grocery Store,6731.22,19,3.3
+ITEM0092,Modern,Frozen Foods,Low Fat,3.14,34.15,0.179,OUT010,Small,Tier 1,Supermarket Type2,5687.24,18,3.8
+ITEM0093,Deep,Beverages,Regular,3.68,309.95,0.19,OUT018,Small,Tier 3,Supermarket Type2,14818.93,40,3.8
+ITEM0094,Next,Frozen Foods,Low Fat,7.14,290.5,0.111,OUT049,Small,Tier 2,Grocery Store,17326.17,59,4.5
+ITEM0095,Message,Fruits,Low Fat,8.67,259.25,0.056,OUT049,Large,Tier 3,Supermarket Type2,11451.84,47,2.7
+ITEM0096,Until,Frozen Foods,Low Fat,7.62,33.15,0.067,OUT010,Large,Tier 2,Supermarket Type1,6156.93,54,3.7
+ITEM0097,Around,Vegetables,Low Fat,2.41,494.88,0.076,OUT049,Small,Tier 2,Grocery Store,7270.96,49,3.6
+ITEM0098,Them,Fruits,Regular,7.24,403.88,0.077,OUT010,Small,Tier 2,Supermarket Type1,345.83,58,4.3
+ITEM0099,Create,Dairy,Low Fat,3.93,86.92,0.118,OUT049,Small,Tier 2,Grocery Store,17569.57,58,3.4
+ITEM0100,Subject,Fruits,Low Fat,3.82,285.3,0.238,OUT013,Small,Tier 3,Supermarket Type2,9284.3,16,2.6
+ITEM0101,Ability,Fruits,Regular,7.03,349.19,0.139,OUT049,Large,Tier 1,Grocery Store,12258.29,32,2.5
+ITEM0102,Letter,Bakery,Low Fat,6.86,375.55,0.232,OUT027,Large,Tier 2,Supermarket Type2,8809.71,13,3.0
+ITEM0103,Say,Snacks,Regular,8.76,206.88,0.178,OUT010,Large,Tier 1,Supermarket Type2,845.43,55,3.8
+ITEM0104,Worry,Frozen Foods,Regular,6.82,315.72,0.017,OUT013,Large,Tier 1,Grocery Store,12915.51,53,2.6
+ITEM0105,Check,Household,Low Fat,7.73,75.98,0.039,OUT018,Small,Tier 3,Supermarket Type1,1342.43,59,4.4
+ITEM0106,Between,Vegetables,Regular,7.91,423.3,0.12,OUT027,Large,Tier 3,Supermarket Type1,18441.29,43,4.5
+ITEM0107,Protect,Frozen Foods,Regular,7.13,356.64,0.118,OUT013,Large,Tier 2,Supermarket Type2,14083.53,45,4.5
+ITEM0108,Message,Beverages,Low Fat,7.45,273.41,0.093,OUT013,Medium,Tier 2,Supermarket Type1,10748.96,39,2.6
+ITEM0109,Radio,Beverages,Regular,8.77,469.0,0.119,OUT027,Small,Tier 3,Supermarket Type1,17172.45,19,3.7
+ITEM0110,Return,Beverages,Low Fat,9.75,316.16,0.226,OUT049,Medium,Tier 2,Supermarket Type2,10727.68,20,2.8
+ITEM0111,Morning,Beverages,Regular,4.4,145.29,0.016,OUT027,Medium,Tier 2,Supermarket Type2,12299.79,21,4.3
+ITEM0112,Say,Snacks,Low Fat,2.28,472.27,0.027,OUT010,Small,Tier 1,Supermarket Type2,17895.83,36,4.0
+ITEM0113,Play,Vegetables,Regular,9.92,256.64,0.179,OUT010,Small,Tier 3,Grocery Store,10800.13,14,4.5
+ITEM0114,Director,Vegetables,Regular,6.32,276.37,0.03,OUT018,Medium,Tier 3,Grocery Store,10828.23,40,4.2
+ITEM0115,Bank,Household,Low Fat,9.88,163.77,0.071,OUT049,Small,Tier 2,Supermarket Type1,13776.26,16,4.8
+ITEM0116,Between,Vegetables,Regular,1.15,346.54,0.144,OUT013,Medium,Tier 1,Supermarket Type1,4672.45,29,4.9
+ITEM0117,Those,Dairy,Low Fat,5.06,132.15,0.045,OUT027,Large,Tier 3,Supermarket Type2,14656.85,20,2.6
+ITEM0118,Both,Household,Low Fat,4.63,271.1,0.136,OUT010,Large,Tier 2,Supermarket Type1,13913.21,38,3.2
+ITEM0119,Young,Bakery,Low Fat,2.14,425.77,0.189,OUT027,Large,Tier 3,Grocery Store,17692.71,32,3.7
+ITEM0120,Inside,Dairy,Low Fat,9.05,363.58,0.177,OUT049,Medium,Tier 2,Supermarket Type1,19379.55,39,3.7
+ITEM0121,Here,Fruits,Regular,1.14,82.8,0.144,OUT027,Small,Tier 2,Supermarket Type2,10090.64,21,3.5
+ITEM0122,Fast,Bakery,Regular,8.02,69.37,0.23,OUT027,Medium,Tier 2,Supermarket Type2,13965.86,12,4.9
+ITEM0123,Here,Vegetables,Regular,3.07,24.18,0.248,OUT013,Medium,Tier 2,Supermarket Type2,5013.9,12,3.8
+ITEM0124,Value,Bakery,Low Fat,1.98,104.13,0.07,OUT049,Small,Tier 3,Supermarket Type2,966.94,51,4.9
+ITEM0125,Writer,Frozen Foods,Low Fat,5.18,475.26,0.23,OUT027,Small,Tier 1,Grocery Store,12502.83,42,2.7
+ITEM0126,Do,Vegetables,Regular,5.29,215.26,0.131,OUT049,Small,Tier 3,Supermarket Type1,3669.55,46,5.0
+ITEM0127,Argue,Dairy,Regular,0.57,463.11,0.084,OUT027,Large,Tier 1,Supermarket Type1,9864.76,41,2.8
+ITEM0128,Simply,Household,Regular,6.74,467.32,0.052,OUT018,Large,Tier 1,Supermarket Type1,5411.65,18,3.3
+ITEM0129,Owner,Snacks,Regular,5.1,245.7,0.242,OUT018,Large,Tier 2,Supermarket Type2,11817.63,49,4.1
+ITEM0130,Country,Dairy,Low Fat,4.14,114.64,0.155,OUT027,Medium,Tier 2,Supermarket Type2,18654.8,52,3.7
+ITEM0131,Old,Dairy,Low Fat,4.36,433.9,0.032,OUT013,Medium,Tier 1,Supermarket Type1,17080.4,44,4.9
+ITEM0132,Station,Household,Low Fat,8.1,371.19,0.194,OUT010,Medium,Tier 1,Supermarket Type1,18750.43,29,4.7
+ITEM0133,Color,Fruits,Regular,5.58,223.62,0.223,OUT013,Small,Tier 2,Supermarket Type2,9545.78,21,3.4
+ITEM0134,Social,Fruits,Regular,6.33,463.65,0.236,OUT018,Medium,Tier 3,Supermarket Type1,617.47,23,5.0
+ITEM0135,Change,Vegetables,Low Fat,9.87,400.47,0.014,OUT013,Small,Tier 2,Supermarket Type2,8593.36,21,4.2
+ITEM0136,Challenge,Household,Low Fat,6.12,39.99,0.137,OUT027,Large,Tier 1,Supermarket Type2,17409.37,52,3.1
+ITEM0137,Current,Frozen Foods,Low Fat,1.02,184.16,0.119,OUT027,Small,Tier 1,Supermarket Type1,16092.41,30,2.9
+ITEM0138,Young,Beverages,Low Fat,3.34,366.17,0.08,OUT027,Large,Tier 1,Grocery Store,15601.43,31,5.0
+ITEM0139,Pattern,Dairy,Regular,9.08,311.34,0.099,OUT018,Small,Tier 1,Supermarket Type1,7175.81,17,4.6
+ITEM0140,Environmental,Bakery,Regular,5.65,402.27,0.154,OUT010,Small,Tier 1,Grocery Store,3954.31,40,3.1
+ITEM0141,According,Frozen Foods,Low Fat,6.79,368.09,0.25,OUT049,Large,Tier 3,Supermarket Type2,12359.3,42,3.6
+ITEM0142,Half,Vegetables,Regular,2.26,349.95,0.235,OUT013,Large,Tier 1,Supermarket Type2,15650.96,50,4.5
+ITEM0143,Public,Fruits,Low Fat,1.57,398.51,0.17,OUT049,Large,Tier 1,Grocery Store,13290.16,11,4.3
+ITEM0144,House,Beverages,Regular,7.96,47.75,0.07,OUT010,Large,Tier 3,Supermarket Type1,5151.05,42,2.9
+ITEM0145,Energy,Vegetables,Regular,4.09,338.29,0.227,OUT010,Large,Tier 2,Grocery Store,16545.52,10,3.1
+ITEM0146,Fear,Vegetables,Low Fat,6.34,70.5,0.199,OUT010,Large,Tier 1,Grocery Store,17622.82,38,3.4
+ITEM0147,Pay,Snacks,Low Fat,4.8,118.55,0.213,OUT018,Small,Tier 2,Supermarket Type1,1228.64,28,4.0
+ITEM0148,Worry,Bakery,Low Fat,6.64,368.23,0.042,OUT013,Large,Tier 1,Grocery Store,7241.58,45,4.8
+ITEM0149,Particularly,Dairy,Regular,9.32,133.85,0.126,OUT049,Small,Tier 1,Supermarket Type2,16462.18,14,3.9
+ITEM0150,Likely,Dairy,Regular,6.69,402.92,0.249,OUT018,Large,Tier 2,Grocery Store,16193.0,40,2.5
+ITEM0151,Eight,Household,Low Fat,7.76,307.09,0.241,OUT049,Small,Tier 3,Grocery Store,1462.33,18,4.5
+ITEM0152,Realize,Household,Regular,1.61,356.48,0.042,OUT013,Large,Tier 1,Grocery Store,9203.89,47,2.7
+ITEM0153,Strong,Snacks,Regular,7.97,132.63,0.198,OUT010,Medium,Tier 3,Grocery Store,13888.53,59,3.8
+ITEM0154,Many,Snacks,Low Fat,6.05,497.55,0.211,OUT013,Large,Tier 2,Supermarket Type2,14606.66,19,3.0
+ITEM0155,Ground,Vegetables,Low Fat,9.13,44.04,0.24,OUT010,Medium,Tier 2,Grocery Store,1790.01,56,3.4
+ITEM0156,Type,Frozen Foods,Low Fat,3.78,322.57,0.028,OUT010,Small,Tier 1,Grocery Store,19059.24,13,4.1
+ITEM0157,Indeed,Dairy,Regular,2.1,452.17,0.085,OUT027,Large,Tier 1,Supermarket Type2,344.76,57,3.7
+ITEM0158,Talk,Snacks,Low Fat,1.8,272.51,0.119,OUT013,Small,Tier 1,Supermarket Type1,11254.35,24,4.3
+ITEM0159,Perform,Bakery,Regular,3.71,421.83,0.038,OUT049,Large,Tier 3,Supermarket Type2,4043.67,33,2.8
+ITEM0160,Several,Snacks,Regular,2.66,476.0,0.036,OUT049,Large,Tier 1,Supermarket Type2,16387.01,15,2.7
+ITEM0161,Idea,Dairy,Low Fat,7.99,90.93,0.058,OUT027,Medium,Tier 2,Grocery Store,17681.86,24,3.4
+ITEM0162,Stage,Beverages,Regular,2.77,181.48,0.197,OUT027,Medium,Tier 1,Supermarket Type2,19226.04,38,3.0
+ITEM0163,Stuff,Household,Regular,1.33,404.9,0.191,OUT049,Medium,Tier 2,Supermarket Type1,13837.05,43,3.1
+ITEM0164,Range,Fruits,Low Fat,1.44,387.12,0.137,OUT049,Medium,Tier 3,Supermarket Type1,987.83,45,4.1
+ITEM0165,East,Bakery,Regular,4.85,477.12,0.221,OUT010,Medium,Tier 2,Supermarket Type2,10330.16,54,3.2
+ITEM0166,Performance,Bakery,Low Fat,8.23,96.22,0.084,OUT010,Medium,Tier 1,Supermarket Type2,8140.21,41,3.8
+ITEM0167,Family,Fruits,Low Fat,3.09,207.06,0.082,OUT010,Small,Tier 3,Grocery Store,19887.66,56,3.5
+ITEM0168,Collection,Bakery,Low Fat,1.57,294.55,0.175,OUT018,Small,Tier 2,Grocery Store,1204.58,13,4.1
+ITEM0169,Sister,Bakery,Low Fat,5.81,403.72,0.21,OUT027,Medium,Tier 1,Supermarket Type2,11589.4,49,3.8
+ITEM0170,Agreement,Bakery,Low Fat,8.35,309.73,0.175,OUT018,Small,Tier 1,Supermarket Type2,8666.19,14,4.9
+ITEM0171,Where,Fruits,Low Fat,7.21,269.12,0.025,OUT018,Small,Tier 3,Supermarket Type1,12408.44,36,3.5
+ITEM0172,From,Vegetables,Low Fat,8.06,131.9,0.023,OUT027,Medium,Tier 1,Supermarket Type1,2307.4,51,3.8
+ITEM0173,National,Snacks,Regular,8.37,29.43,0.145,OUT049,Large,Tier 3,Supermarket Type1,114.45,21,4.6
+ITEM0174,Particular,Beverages,Regular,0.83,108.23,0.189,OUT027,Small,Tier 1,Supermarket Type2,15539.7,22,4.4
+ITEM0175,Take,Dairy,Regular,8.07,484.12,0.174,OUT027,Large,Tier 1,Supermarket Type2,14135.78,16,4.8
+ITEM0176,Prepare,Snacks,Low Fat,6.63,377.36,0.052,OUT010,Medium,Tier 2,Supermarket Type2,6758.04,16,4.1
+ITEM0177,Dark,Household,Regular,4.45,31.3,0.138,OUT018,Large,Tier 2,Supermarket Type1,4926.98,17,3.8
+ITEM0178,Speech,Household,Low Fat,1.61,218.65,0.128,OUT013,Medium,Tier 1,Supermarket Type2,17146.48,17,2.5
+ITEM0179,Again,Frozen Foods,Regular,4.89,32.37,0.227,OUT027,Medium,Tier 2,Supermarket Type1,7171.21,34,3.1
+ITEM0180,Official,Bakery,Regular,2.05,82.93,0.154,OUT027,Large,Tier 1,Supermarket Type2,18917.28,22,2.9
+ITEM0181,Source,Fruits,Low Fat,1.1,120.2,0.221,OUT018,Medium,Tier 2,Supermarket Type1,5520.89,24,4.7
+ITEM0182,Woman,Fruits,Regular,5.22,251.28,0.047,OUT018,Small,Tier 1,Grocery Store,15637.45,56,2.6
+ITEM0183,Protect,Dairy,Low Fat,1.69,347.02,0.02,OUT049,Medium,Tier 2,Grocery Store,3100.45,26,4.2
+ITEM0184,Often,Fruits,Regular,2.26,436.4,0.109,OUT018,Large,Tier 1,Supermarket Type1,13764.84,43,3.1
+ITEM0185,Training,Snacks,Regular,5.7,49.32,0.071,OUT010,Large,Tier 3,Supermarket Type1,11905.63,33,3.5
+ITEM0186,Store,Beverages,Low Fat,8.91,49.89,0.048,OUT049,Large,Tier 1,Supermarket Type2,11633.39,47,4.9
+ITEM0187,Contain,Dairy,Low Fat,4.83,476.66,0.131,OUT018,Large,Tier 2,Supermarket Type2,1029.11,47,2.5
+ITEM0188,Fall,Household,Regular,4.39,363.37,0.195,OUT018,Large,Tier 2,Supermarket Type1,13728.08,35,3.0
+ITEM0189,Improve,Snacks,Regular,4.5,338.77,0.22,OUT010,Large,Tier 3,Grocery Store,6001.49,55,3.3
+ITEM0190,He,Frozen Foods,Low Fat,3.96,257.01,0.039,OUT013,Small,Tier 3,Grocery Store,10834.44,33,4.7
+ITEM0191,Computer,Household,Low Fat,8.8,416.93,0.243,OUT018,Medium,Tier 2,Supermarket Type1,7792.67,28,3.7
+ITEM0192,Approach,Dairy,Regular,1.07,203.65,0.037,OUT018,Small,Tier 1,Supermarket Type1,1786.76,59,4.2
+ITEM0193,Level,Bakery,Regular,6.62,455.76,0.018,OUT049,Medium,Tier 3,Supermarket Type1,2235.41,44,3.1
+ITEM0194,Unit,Snacks,Regular,9.65,238.48,0.044,OUT013,Large,Tier 1,Grocery Store,9064.34,41,2.9
+ITEM0195,Tell,Dairy,Regular,6.98,43.38,0.233,OUT018,Medium,Tier 1,Supermarket Type2,827.38,16,2.7
+ITEM0196,Special,Snacks,Regular,7.98,24.01,0.14,OUT027,Small,Tier 1,Supermarket Type1,15786.11,54,4.5
+ITEM0197,At,Dairy,Low Fat,8.38,353.3,0.157,OUT049,Medium,Tier 1,Supermarket Type1,12384.24,52,3.0
+ITEM0198,In,Dairy,Regular,5.59,466.12,0.156,OUT010,Medium,Tier 1,Supermarket Type1,4039.32,44,3.6
+ITEM0199,Money,Beverages,Regular,1.76,485.48,0.243,OUT018,Large,Tier 2,Supermarket Type2,15886.14,46,2.8
+ITEM0200,Party,Snacks,Low Fat,1.85,167.36,0.187,OUT027,Medium,Tier 3,Grocery Store,19975.51,32,5.0
+ITEM0201,Free,Bakery,Regular,6.63,209.53,0.223,OUT049,Small,Tier 3,Supermarket Type1,19214.86,50,4.8
+ITEM0202,College,Beverages,Low Fat,6.49,159.96,0.192,OUT010,Medium,Tier 3,Supermarket Type2,8091.18,33,3.5
+ITEM0203,Near,Frozen Foods,Regular,9.9,415.62,0.016,OUT010,Medium,Tier 2,Supermarket Type1,3143.79,43,4.3
+ITEM0204,Capital,Snacks,Low Fat,8.65,436.08,0.203,OUT049,Large,Tier 1,Supermarket Type1,5775.05,43,3.3
+ITEM0205,Cup,Bakery,Low Fat,8.99,211.05,0.019,OUT010,Small,Tier 2,Supermarket Type2,12173.87,24,2.7
+ITEM0206,Section,Bakery,Low Fat,0.69,61.92,0.043,OUT018,Large,Tier 2,Supermarket Type1,19062.16,28,5.0
+ITEM0207,Move,Snacks,Low Fat,0.71,328.6,0.02,OUT027,Medium,Tier 1,Supermarket Type2,9715.24,10,3.2
+ITEM0208,Focus,Household,Regular,0.81,387.1,0.066,OUT027,Medium,Tier 3,Grocery Store,19188.92,32,4.0
+ITEM0209,Show,Dairy,Regular,2.57,451.13,0.028,OUT010,Medium,Tier 3,Supermarket Type1,15463.74,50,3.2
+ITEM0210,Consumer,Fruits,Regular,6.15,348.55,0.244,OUT049,Large,Tier 1,Supermarket Type2,15535.51,53,4.7
+ITEM0211,All,Dairy,Regular,7.78,303.92,0.054,OUT010,Large,Tier 2,Supermarket Type1,14309.42,53,3.8
+ITEM0212,Brother,Snacks,Regular,4.78,279.05,0.096,OUT018,Small,Tier 1,Supermarket Type2,14479.71,37,3.8
+ITEM0213,Rule,Fruits,Low Fat,6.53,150.77,0.241,OUT027,Small,Tier 3,Supermarket Type1,9970.63,16,4.0
+ITEM0214,Democratic,Bakery,Low Fat,5.59,391.63,0.134,OUT010,Large,Tier 2,Supermarket Type2,2344.54,12,2.9
+ITEM0215,Activity,Vegetables,Low Fat,3.31,170.92,0.118,OUT018,Large,Tier 2,Supermarket Type2,13345.76,51,2.6
+ITEM0216,Stuff,Dairy,Regular,7.83,382.05,0.035,OUT027,Large,Tier 3,Grocery Store,17280.61,46,3.3
+ITEM0217,Myself,Household,Low Fat,3.18,194.51,0.063,OUT010,Small,Tier 2,Supermarket Type2,19183.09,55,4.4
+ITEM0218,Research,Vegetables,Regular,1.13,395.81,0.129,OUT013,Small,Tier 3,Supermarket Type1,14356.77,20,4.4
+ITEM0219,Ready,Household,Regular,6.32,222.19,0.211,OUT013,Large,Tier 3,Supermarket Type2,9850.4,41,2.7
+ITEM0220,Start,Frozen Foods,Regular,7.68,359.21,0.242,OUT027,Large,Tier 3,Supermarket Type2,3310.88,30,4.2
+ITEM0221,Example,Dairy,Low Fat,5.83,270.59,0.055,OUT027,Small,Tier 1,Grocery Store,10521.13,51,3.3
+ITEM0222,Sure,Vegetables,Low Fat,5.39,354.42,0.037,OUT010,Large,Tier 2,Supermarket Type2,11383.06,42,3.3
+ITEM0223,Mrs,Frozen Foods,Low Fat,9.89,123.45,0.244,OUT018,Medium,Tier 2,Supermarket Type2,436.87,16,4.5
+ITEM0224,Green,Bakery,Low Fat,3.05,309.26,0.141,OUT010,Large,Tier 3,Supermarket Type2,8698.88,40,2.5
+ITEM0225,Million,Fruits,Regular,4.61,332.59,0.242,OUT010,Large,Tier 1,Supermarket Type2,4363.51,57,3.3
+ITEM0226,Walk,Bakery,Low Fat,9.43,123.63,0.238,OUT027,Small,Tier 2,Supermarket Type1,1123.38,54,3.8
+ITEM0227,Speech,Vegetables,Regular,8.24,137.62,0.077,OUT010,Large,Tier 1,Supermarket Type2,956.35,44,3.6
+ITEM0228,Late,Beverages,Regular,6.04,254.59,0.119,OUT049,Small,Tier 2,Supermarket Type1,1174.1,29,2.9
+ITEM0229,Land,Fruits,Regular,0.67,410.04,0.098,OUT018,Large,Tier 1,Grocery Store,11044.5,52,3.8
+ITEM0230,Second,Bakery,Regular,6.79,59.24,0.226,OUT010,Large,Tier 1,Supermarket Type1,13123.82,10,4.2
+ITEM0231,Again,Household,Regular,9.07,128.32,0.119,OUT049,Small,Tier 2,Supermarket Type1,16601.68,28,3.6
+ITEM0232,Item,Snacks,Regular,1.22,318.56,0.121,OUT049,Large,Tier 1,Grocery Store,972.26,53,4.9
+ITEM0233,Simple,Fruits,Regular,8.72,478.84,0.139,OUT018,Medium,Tier 2,Supermarket Type1,18819.66,40,3.5
+ITEM0234,Step,Fruits,Regular,6.47,51.27,0.079,OUT010,Large,Tier 3,Supermarket Type2,11702.78,55,5.0
+ITEM0235,Kitchen,Vegetables,Regular,4.55,406.2,0.162,OUT013,Large,Tier 2,Supermarket Type2,8770.92,22,4.3
+ITEM0236,Design,Beverages,Low Fat,0.76,173.31,0.215,OUT013,Medium,Tier 1,Supermarket Type2,771.9,42,2.9
+ITEM0237,Skill,Snacks,Regular,3.56,146.14,0.211,OUT027,Small,Tier 1,Supermarket Type1,15864.63,36,3.9
+ITEM0238,Film,Dairy,Regular,4.08,197.21,0.225,OUT018,Small,Tier 2,Grocery Store,10243.17,36,4.8
+ITEM0239,Name,Frozen Foods,Low Fat,6.52,280.34,0.248,OUT027,Small,Tier 2,Grocery Store,9471.03,35,2.5
+ITEM0240,About,Household,Low Fat,1.08,179.01,0.165,OUT049,Medium,Tier 3,Supermarket Type2,9354.4,20,4.8
+ITEM0241,Election,Fruits,Regular,3.78,376.77,0.043,OUT018,Small,Tier 3,Supermarket Type1,7501.41,25,4.6
+ITEM0242,Least,Fruits,Low Fat,1.42,364.63,0.059,OUT049,Small,Tier 1,Grocery Store,16106.95,12,2.5
+ITEM0243,Significant,Fruits,Low Fat,2.46,46.26,0.189,OUT049,Small,Tier 1,Grocery Store,16426.79,22,4.3
+ITEM0244,Resource,Vegetables,Regular,9.46,156.88,0.206,OUT018,Medium,Tier 1,Supermarket Type2,18090.03,11,4.8
+ITEM0245,Radio,Vegetables,Low Fat,9.98,396.71,0.087,OUT013,Small,Tier 2,Supermarket Type2,4195.11,36,4.2
+ITEM0246,Fill,Vegetables,Low Fat,8.91,40.69,0.246,OUT018,Small,Tier 2,Supermarket Type1,642.59,39,3.8
+ITEM0247,Call,Household,Regular,1.7,76.57,0.147,OUT010,Small,Tier 2,Supermarket Type2,208.46,25,4.3
+ITEM0248,Run,Fruits,Low Fat,3.58,256.43,0.232,OUT049,Small,Tier 3,Supermarket Type2,15288.48,11,4.0
+ITEM0249,Late,Bakery,Low Fat,5.75,480.27,0.097,OUT013,Medium,Tier 1,Grocery Store,3048.09,25,2.9
+ITEM0250,Education,Bakery,Regular,2.42,139.95,0.199,OUT027,Large,Tier 2,Supermarket Type2,6627.1,49,2.5
+ITEM0251,Eat,Snacks,Low Fat,4.22,231.25,0.181,OUT049,Large,Tier 3,Grocery Store,4668.54,29,3.9
+ITEM0252,Show,Bakery,Regular,3.32,133.32,0.211,OUT010,Large,Tier 3,Supermarket Type1,16361.43,32,3.6
+ITEM0253,Central,Vegetables,Regular,4.49,324.89,0.069,OUT027,Small,Tier 1,Supermarket Type1,9034.96,51,4.6
+ITEM0254,Factor,Fruits,Low Fat,8.51,398.92,0.234,OUT049,Medium,Tier 2,Grocery Store,8460.31,26,3.1
+ITEM0255,Human,Snacks,Regular,3.9,23.73,0.228,OUT049,Medium,Tier 2,Grocery Store,15364.94,18,3.0
+ITEM0256,Argue,Bakery,Regular,9.8,325.44,0.106,OUT018,Medium,Tier 2,Grocery Store,4477.63,12,2.5
+ITEM0257,Above,Bakery,Low Fat,9.38,316.0,0.188,OUT018,Large,Tier 2,Grocery Store,16952.71,56,2.8
+ITEM0258,Hear,Fruits,Low Fat,7.65,253.55,0.103,OUT013,Small,Tier 3,Supermarket Type1,5068.52,36,3.3
+ITEM0259,Country,Frozen Foods,Regular,4.87,25.66,0.19,OUT010,Small,Tier 1,Supermarket Type1,12660.28,27,4.9
+ITEM0260,Window,Snacks,Regular,8.01,173.4,0.242,OUT013,Small,Tier 1,Supermarket Type1,387.81,17,3.2
+ITEM0261,Through,Vegetables,Low Fat,9.05,245.42,0.137,OUT049,Large,Tier 1,Supermarket Type1,8589.45,59,2.8
+ITEM0262,Story,Beverages,Regular,9.02,254.01,0.012,OUT018,Small,Tier 3,Supermarket Type2,15986.78,11,3.9
+ITEM0263,Knowledge,Bakery,Regular,1.45,315.38,0.217,OUT013,Small,Tier 3,Supermarket Type1,18622.36,14,4.7
+ITEM0264,Character,Frozen Foods,Low Fat,2.38,154.98,0.016,OUT018,Small,Tier 1,Grocery Store,17794.3,23,3.9
+ITEM0265,Similar,Household,Regular,9.47,449.16,0.219,OUT010,Small,Tier 1,Supermarket Type1,10557.49,19,2.7
+ITEM0266,Mean,Frozen Foods,Regular,0.94,458.8,0.23,OUT013,Large,Tier 2,Supermarket Type2,7187.9,49,2.6
+ITEM0267,Health,Snacks,Regular,8.69,453.48,0.035,OUT013,Small,Tier 1,Supermarket Type2,1249.11,39,3.0
+ITEM0268,Administration,Dairy,Low Fat,6.37,77.44,0.017,OUT013,Medium,Tier 1,Supermarket Type2,10540.68,34,4.7
+ITEM0269,Deep,Vegetables,Low Fat,5.05,268.33,0.194,OUT027,Medium,Tier 1,Supermarket Type2,17736.59,33,4.7
+ITEM0270,Statement,Household,Regular,8.31,226.45,0.078,OUT013,Small,Tier 2,Supermarket Type2,6478.19,11,2.6
+ITEM0271,Establish,Vegetables,Low Fat,3.87,67.22,0.053,OUT018,Large,Tier 3,Grocery Store,4792.18,43,3.1
+ITEM0272,Account,Beverages,Low Fat,7.86,292.75,0.028,OUT010,Small,Tier 2,Grocery Store,10873.68,26,4.8
+ITEM0273,Let,Frozen Foods,Low Fat,5.95,371.27,0.195,OUT027,Medium,Tier 2,Supermarket Type1,8872.25,15,2.8
+ITEM0274,Talk,Bakery,Low Fat,9.25,336.56,0.241,OUT010,Small,Tier 3,Supermarket Type1,5349.25,53,3.8
+ITEM0275,Tv,Bakery,Low Fat,5.37,29.63,0.116,OUT049,Large,Tier 3,Supermarket Type2,14276.02,42,2.5
+ITEM0276,Particular,Vegetables,Low Fat,5.39,148.91,0.091,OUT010,Small,Tier 2,Supermarket Type1,13913.6,34,4.7
+ITEM0277,Water,Dairy,Low Fat,7.67,451.19,0.192,OUT027,Medium,Tier 2,Grocery Store,15877.36,32,2.5
+ITEM0278,Ago,Snacks,Regular,7.95,444.93,0.053,OUT010,Small,Tier 3,Supermarket Type2,13260.77,20,2.9
+ITEM0279,Campaign,Vegetables,Regular,7.53,358.66,0.14,OUT018,Small,Tier 2,Supermarket Type2,1097.52,39,3.8
+ITEM0280,About,Bakery,Regular,7.93,269.88,0.12,OUT013,Large,Tier 1,Supermarket Type1,4220.57,14,3.9
+ITEM0281,Per,Household,Low Fat,4.04,70.21,0.203,OUT049,Medium,Tier 1,Supermarket Type1,10616.34,47,2.8
+ITEM0282,For,Beverages,Low Fat,1.98,47.42,0.019,OUT049,Small,Tier 3,Supermarket Type2,10733.17,59,4.2
+ITEM0283,Best,Household,Regular,7.03,370.21,0.207,OUT013,Large,Tier 1,Supermarket Type1,19666.12,38,3.7
+ITEM0284,Alone,Frozen Foods,Low Fat,4.52,447.08,0.194,OUT027,Medium,Tier 3,Supermarket Type2,6733.84,34,4.5
+ITEM0285,Second,Beverages,Regular,3.11,200.35,0.176,OUT013,Small,Tier 1,Supermarket Type1,3834.6,50,3.4
+ITEM0286,Crime,Snacks,Low Fat,4.88,165.37,0.069,OUT018,Medium,Tier 3,Supermarket Type1,9475.49,50,3.0
+ITEM0287,Study,Beverages,Regular,4.42,101.21,0.208,OUT027,Medium,Tier 3,Supermarket Type1,12544.15,52,3.5
+ITEM0288,Management,Snacks,Regular,7.43,196.56,0.063,OUT013,Medium,Tier 3,Grocery Store,13431.07,41,3.1
+ITEM0289,Dinner,Fruits,Low Fat,2.34,203.57,0.242,OUT027,Small,Tier 2,Supermarket Type1,6236.34,10,3.4
+ITEM0290,Most,Bakery,Low Fat,5.5,286.33,0.203,OUT018,Large,Tier 1,Grocery Store,6436.76,21,3.9
+ITEM0291,Big,Snacks,Regular,3.65,56.99,0.029,OUT027,Medium,Tier 1,Supermarket Type2,10550.91,46,3.6
+ITEM0292,Different,Dairy,Low Fat,7.51,342.0,0.196,OUT027,Medium,Tier 3,Supermarket Type1,4465.55,54,3.5
+ITEM0293,Area,Vegetables,Regular,0.93,50.61,0.081,OUT013,Small,Tier 3,Supermarket Type2,18890.9,10,4.0
+ITEM0294,Road,Dairy,Regular,8.27,443.33,0.245,OUT027,Small,Tier 3,Supermarket Type1,5003.52,52,3.1
+ITEM0295,Discuss,Dairy,Regular,5.9,127.79,0.168,OUT018,Large,Tier 2,Supermarket Type1,10114.71,46,4.1
+ITEM0296,Anyone,Frozen Foods,Regular,8.61,254.49,0.167,OUT010,Large,Tier 2,Grocery Store,16635.91,11,4.1
+ITEM0297,Difference,Frozen Foods,Regular,9.12,120.37,0.06,OUT049,Small,Tier 1,Supermarket Type2,2358.31,25,4.4
+ITEM0298,Customer,Snacks,Low Fat,7.91,140.35,0.073,OUT018,Medium,Tier 2,Grocery Store,5708.59,41,4.8
+ITEM0299,Affect,Bakery,Regular,0.66,168.98,0.214,OUT027,Small,Tier 3,Supermarket Type2,14793.01,18,2.8
+ITEM0300,Treat,Vegetables,Low Fat,8.66,105.66,0.222,OUT049,Small,Tier 3,Supermarket Type2,18449.73,30,2.6
+ITEM0301,Head,Dairy,Regular,9.35,497.62,0.018,OUT013,Medium,Tier 3,Supermarket Type2,1628.54,54,4.1
+ITEM0302,Surface,Beverages,Regular,1.5,419.84,0.139,OUT018,Large,Tier 1,Supermarket Type2,1471.84,54,4.6
+ITEM0303,Number,Fruits,Regular,6.78,183.56,0.19,OUT049,Small,Tier 3,Supermarket Type2,19157.03,48,4.9
+ITEM0304,Kind,Dairy,Regular,5.2,263.99,0.175,OUT010,Small,Tier 3,Supermarket Type2,16412.85,32,3.9
+ITEM0305,Necessary,Beverages,Regular,4.05,317.12,0.084,OUT018,Medium,Tier 1,Grocery Store,8530.03,12,3.5
+ITEM0306,A,Beverages,Low Fat,9.87,50.67,0.224,OUT010,Small,Tier 3,Grocery Store,15622.81,55,2.8
+ITEM0307,With,Bakery,Low Fat,1.88,368.13,0.039,OUT049,Medium,Tier 3,Grocery Store,863.0,42,3.1
+ITEM0308,May,Household,Regular,0.7,260.15,0.196,OUT049,Small,Tier 1,Supermarket Type1,13814.4,38,4.4
+ITEM0309,Often,Fruits,Regular,9.08,301.31,0.163,OUT010,Small,Tier 3,Supermarket Type1,1861.47,26,3.3
+ITEM0310,Friend,Household,Regular,9.6,451.58,0.17,OUT027,Small,Tier 2,Supermarket Type1,1599.42,15,4.3
+ITEM0311,That,Bakery,Low Fat,3.36,254.33,0.077,OUT013,Large,Tier 1,Grocery Store,11673.93,11,2.9
+ITEM0312,Reduce,Bakery,Regular,5.71,431.21,0.06,OUT010,Small,Tier 3,Supermarket Type1,12674.72,55,4.3
+ITEM0313,Including,Vegetables,Regular,0.9,123.68,0.211,OUT013,Large,Tier 1,Supermarket Type2,13975.35,34,2.6
+ITEM0314,Mention,Household,Low Fat,1.67,162.92,0.1,OUT013,Medium,Tier 3,Supermarket Type1,3930.81,22,4.0
+ITEM0315,Inside,Fruits,Low Fat,4.06,295.23,0.175,OUT018,Small,Tier 3,Supermarket Type2,2523.44,20,3.5
+ITEM0316,Little,Fruits,Low Fat,6.76,331.47,0.064,OUT049,Large,Tier 1,Grocery Store,1990.54,42,4.1
+ITEM0317,Her,Fruits,Low Fat,1.23,302.19,0.164,OUT027,Medium,Tier 3,Grocery Store,18096.82,38,4.9
+ITEM0318,Man,Dairy,Low Fat,8.44,38.99,0.099,OUT027,Medium,Tier 1,Grocery Store,17021.5,27,2.6
+ITEM0319,Most,Vegetables,Regular,6.31,197.83,0.096,OUT013,Small,Tier 1,Supermarket Type2,12220.95,26,3.5
+ITEM0320,Pressure,Frozen Foods,Regular,6.08,495.28,0.125,OUT027,Small,Tier 3,Grocery Store,12455.09,20,4.9
+ITEM0321,Everybody,Vegetables,Low Fat,2.8,199.91,0.019,OUT018,Medium,Tier 3,Grocery Store,18371.0,47,4.6
+ITEM0322,Their,Beverages,Regular,7.51,94.6,0.234,OUT010,Large,Tier 2,Supermarket Type1,6628.95,51,2.8
+ITEM0323,Black,Beverages,Low Fat,4.39,67.4,0.142,OUT018,Small,Tier 2,Supermarket Type2,4056.87,38,5.0
+ITEM0324,Trip,Household,Regular,3.33,114.78,0.218,OUT027,Small,Tier 2,Supermarket Type1,7658.61,40,3.6
+ITEM0325,View,Beverages,Regular,2.02,364.44,0.247,OUT018,Medium,Tier 3,Supermarket Type2,17609.88,21,3.6
+ITEM0326,Even,Frozen Foods,Low Fat,1.35,110.01,0.111,OUT049,Large,Tier 3,Supermarket Type1,8387.29,11,3.7
+ITEM0327,Strong,Frozen Foods,Regular,1.89,55.37,0.128,OUT018,Small,Tier 3,Supermarket Type2,8198.71,41,2.7
+ITEM0328,Cell,Dairy,Low Fat,0.68,417.63,0.141,OUT010,Medium,Tier 1,Supermarket Type1,2406.53,10,4.6
+ITEM0329,Situation,Beverages,Low Fat,6.6,46.51,0.03,OUT018,Large,Tier 2,Grocery Store,12472.97,42,4.4
+ITEM0330,Good,Household,Regular,9.28,294.56,0.117,OUT049,Medium,Tier 3,Grocery Store,7674.67,32,3.1
+ITEM0331,Phone,Fruits,Low Fat,6.64,98.66,0.079,OUT013,Large,Tier 1,Supermarket Type1,8715.78,47,2.5
+ITEM0332,Quickly,Bakery,Regular,4.85,100.55,0.15,OUT010,Medium,Tier 3,Supermarket Type1,4253.52,44,4.8
+ITEM0333,Event,Snacks,Regular,5.08,46.59,0.173,OUT018,Medium,Tier 2,Grocery Store,12303.57,20,4.0
+ITEM0334,Citizen,Frozen Foods,Low Fat,7.91,51.9,0.237,OUT027,Small,Tier 2,Supermarket Type1,14853.28,18,4.0
+ITEM0335,Politics,Bakery,Low Fat,9.77,299.22,0.091,OUT027,Medium,Tier 2,Supermarket Type2,17049.37,19,4.6
+ITEM0336,Individual,Snacks,Low Fat,6.04,256.53,0.015,OUT018,Small,Tier 1,Grocery Store,16879.71,13,4.2
+ITEM0337,Model,Household,Regular,1.66,219.51,0.044,OUT027,Medium,Tier 3,Supermarket Type1,4743.11,55,2.9
+ITEM0338,Generation,Snacks,Low Fat,1.35,332.37,0.239,OUT018,Small,Tier 1,Grocery Store,9091.37,28,4.3
+ITEM0339,Side,Bakery,Regular,4.17,254.03,0.11,OUT013,Small,Tier 3,Grocery Store,6489.98,41,3.0
+ITEM0340,Suggest,Beverages,Low Fat,3.4,68.73,0.031,OUT027,Large,Tier 3,Supermarket Type1,13196.16,34,4.8
+ITEM0341,Choose,Beverages,Low Fat,9.02,300.67,0.137,OUT010,Medium,Tier 3,Supermarket Type1,6735.01,20,3.0
+ITEM0342,Require,Household,Low Fat,2.49,42.15,0.101,OUT010,Small,Tier 3,Supermarket Type2,11259.97,32,3.5
+ITEM0343,Majority,Frozen Foods,Low Fat,8.63,347.68,0.018,OUT013,Small,Tier 3,Grocery Store,19393.58,48,4.1
+ITEM0344,Professional,Snacks,Regular,7.42,93.35,0.173,OUT049,Large,Tier 3,Grocery Store,18970.28,23,3.5
+ITEM0345,Have,Fruits,Low Fat,1.68,70.18,0.241,OUT027,Small,Tier 1,Grocery Store,7257.73,35,3.8
+ITEM0346,Music,Beverages,Low Fat,8.86,136.63,0.136,OUT027,Small,Tier 3,Grocery Store,13861.18,34,3.8
+ITEM0347,Around,Dairy,Regular,5.62,94.21,0.206,OUT013,Medium,Tier 2,Supermarket Type2,16226.7,34,4.1
+ITEM0348,Thought,Fruits,Low Fat,8.81,364.33,0.157,OUT049,Large,Tier 3,Supermarket Type2,5936.11,51,3.4
+ITEM0349,Hit,Beverages,Low Fat,9.7,265.65,0.043,OUT027,Small,Tier 1,Grocery Store,15751.56,16,2.9
+ITEM0350,Entire,Dairy,Regular,3.87,97.88,0.139,OUT027,Large,Tier 1,Supermarket Type2,789.8,15,4.8
+ITEM0351,Fly,Vegetables,Low Fat,3.11,387.55,0.248,OUT027,Large,Tier 3,Supermarket Type2,11236.19,36,2.5
+ITEM0352,Very,Dairy,Regular,5.58,484.93,0.011,OUT013,Large,Tier 2,Supermarket Type2,4397.92,34,2.6
+ITEM0353,Need,Frozen Foods,Low Fat,8.29,219.24,0.156,OUT049,Large,Tier 1,Grocery Store,8193.0,46,3.3
+ITEM0354,Generation,Frozen Foods,Regular,0.5,339.25,0.201,OUT013,Large,Tier 2,Supermarket Type1,12904.82,46,3.8
+ITEM0355,Focus,Household,Low Fat,5.02,249.95,0.091,OUT013,Medium,Tier 1,Supermarket Type1,4141.96,53,4.0
+ITEM0356,Shake,Bakery,Low Fat,3.89,197.89,0.186,OUT013,Large,Tier 2,Supermarket Type2,12917.24,51,3.6
+ITEM0357,Show,Bakery,Low Fat,2.7,256.75,0.111,OUT013,Medium,Tier 1,Supermarket Type1,11057.07,50,3.2
+ITEM0358,Prevent,Frozen Foods,Low Fat,1.9,92.34,0.221,OUT010,Small,Tier 2,Grocery Store,3577.58,53,3.9
+ITEM0359,Behind,Vegetables,Low Fat,2.57,196.06,0.04,OUT027,Medium,Tier 2,Grocery Store,9304.23,46,2.9
+ITEM0360,Support,Snacks,Regular,4.57,292.32,0.247,OUT013,Large,Tier 1,Supermarket Type2,15967.09,32,3.5
+ITEM0361,Over,Bakery,Low Fat,9.18,26.2,0.075,OUT027,Small,Tier 3,Supermarket Type2,3852.81,30,4.9
+ITEM0362,How,Household,Regular,6.53,156.92,0.07,OUT013,Large,Tier 2,Supermarket Type1,11521.26,49,3.1
+ITEM0363,Agency,Vegetables,Regular,8.77,93.63,0.217,OUT013,Medium,Tier 3,Grocery Store,13571.04,50,4.1
+ITEM0364,Far,Vegetables,Regular,5.25,61.01,0.057,OUT013,Medium,Tier 3,Grocery Store,3436.01,15,2.9
+ITEM0365,Challenge,Household,Regular,9.79,422.68,0.051,OUT027,Medium,Tier 3,Grocery Store,6332.5,35,3.1
+ITEM0366,Single,Fruits,Regular,9.15,160.68,0.219,OUT013,Medium,Tier 2,Supermarket Type1,3505.6,32,4.4
+ITEM0367,Effect,Beverages,Regular,5.29,330.27,0.237,OUT049,Small,Tier 1,Supermarket Type2,2432.3,22,4.7
+ITEM0368,Program,Fruits,Low Fat,1.77,284.3,0.166,OUT013,Medium,Tier 3,Supermarket Type1,4283.22,18,2.5
+ITEM0369,Number,Snacks,Regular,4.21,478.84,0.201,OUT013,Medium,Tier 3,Supermarket Type2,18913.59,32,3.8
+ITEM0370,Three,Beverages,Low Fat,9.36,492.68,0.162,OUT049,Small,Tier 2,Supermarket Type1,9211.45,56,3.5
+ITEM0371,Bar,Beverages,Low Fat,2.56,436.97,0.204,OUT018,Medium,Tier 2,Supermarket Type1,19339.93,15,2.6
+ITEM0372,Hot,Vegetables,Low Fat,2.55,105.89,0.072,OUT049,Small,Tier 1,Supermarket Type1,6606.93,29,3.0
+ITEM0373,Officer,Bakery,Regular,7.31,148.56,0.248,OUT049,Small,Tier 1,Supermarket Type1,11375.28,53,3.5
+ITEM0374,High,Dairy,Regular,3.99,366.92,0.124,OUT013,Large,Tier 1,Supermarket Type2,18268.83,12,2.9
+ITEM0375,Now,Vegetables,Regular,1.04,274.19,0.161,OUT049,Large,Tier 3,Grocery Store,13136.41,17,2.6
+ITEM0376,Week,Bakery,Low Fat,4.38,37.73,0.072,OUT018,Medium,Tier 2,Supermarket Type1,17303.07,37,4.5
+ITEM0377,Population,Fruits,Low Fat,8.57,20.89,0.095,OUT049,Small,Tier 3,Grocery Store,13401.48,43,2.8
+ITEM0378,Condition,Frozen Foods,Regular,1.93,407.21,0.134,OUT027,Small,Tier 2,Supermarket Type1,6027.2,47,4.7
+ITEM0379,Interview,Bakery,Regular,6.39,110.64,0.091,OUT018,Medium,Tier 3,Supermarket Type2,1257.39,29,4.2
+ITEM0380,Sure,Fruits,Regular,2.28,184.06,0.187,OUT049,Large,Tier 2,Grocery Store,2161.63,10,3.9
+ITEM0381,Book,Bakery,Low Fat,4.77,48.62,0.121,OUT013,Medium,Tier 1,Supermarket Type1,18528.09,10,4.1
+ITEM0382,Nice,Bakery,Low Fat,1.31,381.36,0.249,OUT049,Medium,Tier 2,Supermarket Type2,3880.75,49,3.4
+ITEM0383,Economy,Bakery,Regular,2.13,463.51,0.191,OUT013,Medium,Tier 3,Grocery Store,4283.6,55,4.1
+ITEM0384,Election,Fruits,Low Fat,2.78,490.43,0.188,OUT013,Small,Tier 2,Supermarket Type2,13992.1,31,5.0
+ITEM0385,Last,Bakery,Low Fat,8.59,131.62,0.161,OUT027,Medium,Tier 2,Supermarket Type2,14832.09,13,4.2
+ITEM0386,Commercial,Frozen Foods,Regular,5.79,236.56,0.142,OUT049,Large,Tier 3,Supermarket Type2,6930.12,40,4.4
+ITEM0387,Black,Fruits,Regular,4.35,158.87,0.013,OUT010,Medium,Tier 3,Supermarket Type1,1141.46,33,3.0
+ITEM0388,Old,Fruits,Low Fat,6.8,337.5,0.129,OUT013,Medium,Tier 2,Supermarket Type1,17072.26,19,4.4
+ITEM0389,Draw,Household,Low Fat,3.27,325.24,0.065,OUT049,Small,Tier 1,Grocery Store,9837.66,55,3.3
+ITEM0390,Give,Bakery,Low Fat,8.78,178.79,0.149,OUT049,Small,Tier 2,Supermarket Type2,10422.36,16,3.1
+ITEM0391,Fall,Vegetables,Low Fat,2.88,201.4,0.15,OUT027,Small,Tier 3,Supermarket Type2,7339.43,54,4.1
+ITEM0392,Leg,Household,Regular,1.92,447.66,0.084,OUT018,Large,Tier 3,Supermarket Type2,18824.62,55,3.2
+ITEM0393,Set,Fruits,Low Fat,1.66,379.95,0.128,OUT027,Medium,Tier 1,Supermarket Type1,2841.0,47,3.4
+ITEM0394,Move,Snacks,Low Fat,0.51,179.31,0.052,OUT013,Medium,Tier 2,Supermarket Type1,10557.0,41,4.1
+ITEM0395,Skin,Frozen Foods,Low Fat,5.93,182.35,0.182,OUT018,Large,Tier 2,Supermarket Type2,17924.22,58,2.6
+ITEM0396,Rather,Snacks,Low Fat,3.79,473.9,0.064,OUT027,Small,Tier 3,Supermarket Type2,2130.56,11,4.3
+ITEM0397,Impact,Frozen Foods,Regular,1.19,306.38,0.063,OUT027,Medium,Tier 1,Supermarket Type1,3341.59,55,3.7
+ITEM0398,Bar,Frozen Foods,Regular,6.14,157.92,0.191,OUT013,Large,Tier 3,Supermarket Type1,4062.49,51,3.6
+ITEM0399,Enter,Bakery,Low Fat,1.34,199.05,0.125,OUT027,Medium,Tier 2,Supermarket Type1,16782.45,20,3.9
+ITEM0400,I,Dairy,Low Fat,9.37,67.24,0.136,OUT018,Medium,Tier 1,Grocery Store,13387.88,29,3.2
+ITEM0401,Protect,Beverages,Low Fat,8.17,261.7,0.147,OUT018,Medium,Tier 2,Grocery Store,15167.14,33,2.8
+ITEM0402,Soon,Snacks,Low Fat,5.07,219.74,0.057,OUT013,Large,Tier 1,Supermarket Type2,6077.58,45,3.4
+ITEM0403,Again,Beverages,Regular,1.61,196.24,0.153,OUT013,Large,Tier 1,Grocery Store,13564.47,10,4.7
+ITEM0404,Grow,Dairy,Regular,5.88,249.31,0.237,OUT018,Large,Tier 3,Grocery Store,3219.72,21,3.9
+ITEM0405,Will,Vegetables,Regular,1.48,161.11,0.187,OUT049,Medium,Tier 3,Supermarket Type2,6835.24,11,4.3
+ITEM0406,Computer,Household,Low Fat,7.29,278.75,0.145,OUT010,Small,Tier 2,Grocery Store,882.11,47,4.7
+ITEM0407,Party,Bakery,Regular,4.6,24.63,0.111,OUT027,Small,Tier 1,Grocery Store,8075.96,30,4.3
+ITEM0408,Impact,Bakery,Low Fat,0.63,324.91,0.159,OUT027,Large,Tier 1,Grocery Store,16186.91,24,3.4
+ITEM0409,Attack,Snacks,Low Fat,4.93,325.2,0.093,OUT010,Large,Tier 3,Grocery Store,6462.89,17,4.0
+ITEM0410,Movie,Beverages,Low Fat,6.53,201.05,0.05,OUT010,Large,Tier 2,Grocery Store,410.37,47,4.5
+ITEM0411,Situation,Vegetables,Low Fat,5.03,397.58,0.055,OUT049,Medium,Tier 3,Supermarket Type2,14205.0,45,4.6
+ITEM0412,Protect,Fruits,Low Fat,4.3,156.39,0.094,OUT027,Large,Tier 3,Supermarket Type1,1689.62,33,4.5
+ITEM0413,Street,Snacks,Low Fat,7.81,331.82,0.197,OUT010,Small,Tier 2,Grocery Store,10126.5,50,2.7
+ITEM0414,Computer,Fruits,Low Fat,2.81,325.99,0.046,OUT049,Large,Tier 3,Grocery Store,4422.84,54,2.7
+ITEM0415,Administration,Frozen Foods,Low Fat,1.45,296.93,0.142,OUT027,Large,Tier 2,Grocery Store,6121.78,57,4.8
+ITEM0416,Center,Fruits,Low Fat,1.8,251.17,0.081,OUT010,Large,Tier 3,Supermarket Type2,15665.83,37,4.8
+ITEM0417,Require,Snacks,Regular,1.8,21.28,0.217,OUT018,Large,Tier 2,Supermarket Type2,19673.62,44,3.5
+ITEM0418,Most,Beverages,Low Fat,9.58,426.52,0.054,OUT049,Large,Tier 2,Supermarket Type1,9524.1,51,2.6
+ITEM0419,Stop,Snacks,Regular,0.89,113.97,0.171,OUT018,Small,Tier 1,Supermarket Type1,11595.47,33,3.4
+ITEM0420,Family,Vegetables,Regular,3.88,243.64,0.163,OUT027,Small,Tier 3,Supermarket Type1,8454.67,40,4.1
+ITEM0421,At,Vegetables,Low Fat,1.06,471.73,0.088,OUT010,Large,Tier 1,Supermarket Type1,18993.62,46,3.5
+ITEM0422,Include,Vegetables,Low Fat,8.47,39.65,0.14,OUT018,Large,Tier 1,Supermarket Type2,18079.39,12,3.2
+ITEM0423,Movement,Snacks,Low Fat,7.18,247.91,0.152,OUT049,Small,Tier 3,Supermarket Type1,9269.53,50,4.1
+ITEM0424,Admit,Frozen Foods,Low Fat,6.56,315.1,0.078,OUT049,Small,Tier 3,Supermarket Type1,14241.55,28,4.1
+ITEM0425,Particularly,Bakery,Regular,7.19,164.58,0.118,OUT010,Medium,Tier 3,Supermarket Type1,16972.07,35,2.9
+ITEM0426,Community,Dairy,Regular,5.19,356.21,0.228,OUT018,Medium,Tier 1,Supermarket Type2,16474.83,43,3.8
+ITEM0427,New,Snacks,Low Fat,6.44,374.92,0.068,OUT010,Medium,Tier 3,Supermarket Type1,7068.28,12,3.5
+ITEM0428,However,Snacks,Low Fat,0.6,119.5,0.159,OUT018,Small,Tier 2,Supermarket Type1,12562.75,10,3.8
+ITEM0429,Wall,Fruits,Low Fat,3.34,371.22,0.025,OUT018,Large,Tier 2,Grocery Store,18303.2,34,3.5
+ITEM0430,Evening,Beverages,Regular,7.41,39.48,0.034,OUT049,Small,Tier 2,Supermarket Type2,11518.67,58,3.7
+ITEM0431,State,Dairy,Regular,2.38,202.64,0.187,OUT049,Small,Tier 2,Grocery Store,12104.88,56,4.5
+ITEM0432,Movie,Fruits,Low Fat,3.08,179.8,0.151,OUT049,Small,Tier 1,Grocery Store,7252.88,26,3.5
+ITEM0433,Design,Frozen Foods,Low Fat,9.02,118.47,0.219,OUT027,Medium,Tier 2,Supermarket Type1,13891.91,21,4.5
+ITEM0434,Free,Beverages,Regular,3.24,319.56,0.1,OUT018,Small,Tier 2,Supermarket Type1,17519.45,35,4.4
+ITEM0435,Field,Dairy,Regular,6.01,195.79,0.13,OUT049,Small,Tier 1,Grocery Store,12745.57,51,5.0
+ITEM0436,Discussion,Frozen Foods,Low Fat,4.99,361.99,0.141,OUT018,Medium,Tier 2,Grocery Store,17523.25,23,3.4
+ITEM0437,Range,Fruits,Low Fat,8.3,164.6,0.234,OUT027,Large,Tier 1,Supermarket Type1,14533.37,11,4.6
+ITEM0438,Unit,Household,Low Fat,7.21,237.84,0.185,OUT049,Large,Tier 1,Supermarket Type2,901.98,40,2.7
+ITEM0439,Attention,Frozen Foods,Low Fat,9.36,394.05,0.185,OUT018,Small,Tier 1,Supermarket Type2,6976.7,52,3.5
+ITEM0440,None,Vegetables,Regular,4.9,300.0,0.051,OUT013,Small,Tier 2,Grocery Store,17658.61,32,3.3
+ITEM0441,Reach,Vegetables,Regular,3.38,230.41,0.022,OUT049,Small,Tier 3,Supermarket Type1,19988.17,20,3.8
+ITEM0442,Future,Snacks,Regular,7.75,240.59,0.238,OUT010,Large,Tier 3,Supermarket Type2,18409.97,33,4.9
+ITEM0443,Add,Household,Regular,2.42,268.43,0.178,OUT027,Small,Tier 2,Grocery Store,18952.45,28,4.1
+ITEM0444,Such,Snacks,Regular,5.86,236.06,0.227,OUT049,Medium,Tier 1,Supermarket Type1,7082.81,50,4.3
+ITEM0445,None,Frozen Foods,Regular,7.34,136.52,0.185,OUT027,Medium,Tier 2,Supermarket Type1,14026.28,55,3.0
+ITEM0446,Old,Snacks,Regular,0.54,375.78,0.174,OUT010,Large,Tier 3,Supermarket Type1,15983.04,20,4.2
+ITEM0447,Work,Vegetables,Low Fat,7.91,427.95,0.228,OUT010,Small,Tier 2,Grocery Store,3727.18,19,3.9
+ITEM0448,Then,Household,Low Fat,6.04,393.37,0.193,OUT027,Medium,Tier 2,Grocery Store,10963.62,46,4.6
+ITEM0449,Mind,Beverages,Regular,8.97,254.0,0.019,OUT013,Large,Tier 2,Supermarket Type1,4363.63,30,2.7
+ITEM0450,Relationship,Vegetables,Regular,0.79,282.6,0.208,OUT027,Medium,Tier 2,Grocery Store,9093.92,11,4.4
+ITEM0451,Anyone,Beverages,Regular,2.87,406.21,0.102,OUT013,Medium,Tier 2,Grocery Store,16159.16,34,3.5
+ITEM0452,Price,Bakery,Regular,7.72,119.48,0.091,OUT018,Medium,Tier 1,Supermarket Type2,5968.05,31,3.5
+ITEM0453,Area,Bakery,Low Fat,4.74,266.41,0.058,OUT027,Small,Tier 3,Grocery Store,4238.47,16,4.6
+ITEM0454,Only,Snacks,Low Fat,2.9,109.01,0.131,OUT018,Medium,Tier 1,Grocery Store,478.86,31,4.3
+ITEM0455,Or,Frozen Foods,Low Fat,6.13,160.77,0.109,OUT010,Large,Tier 1,Supermarket Type2,9151.76,38,4.6
+ITEM0456,Full,Household,Regular,3.21,336.62,0.122,OUT027,Large,Tier 3,Supermarket Type2,11292.2,26,3.6
+ITEM0457,Mother,Fruits,Low Fat,4.61,48.15,0.15,OUT013,Small,Tier 2,Grocery Store,9380.66,17,3.7
+ITEM0458,Listen,Frozen Foods,Low Fat,9.83,411.32,0.049,OUT018,Large,Tier 3,Grocery Store,687.61,21,3.2
+ITEM0459,People,Snacks,Low Fat,7.43,479.18,0.031,OUT027,Small,Tier 2,Grocery Store,6920.14,35,3.7
+ITEM0460,Including,Dairy,Regular,1.59,152.98,0.135,OUT018,Medium,Tier 2,Supermarket Type1,13549.67,19,4.3
+ITEM0461,Meet,Frozen Foods,Low Fat,2.18,262.73,0.054,OUT010,Medium,Tier 2,Grocery Store,19772.0,38,3.0
+ITEM0462,Subject,Beverages,Low Fat,1.88,89.11,0.206,OUT018,Medium,Tier 1,Supermarket Type1,7087.3,12,4.0
+ITEM0463,Model,Beverages,Low Fat,9.38,29.64,0.187,OUT027,Medium,Tier 2,Grocery Store,13754.73,50,4.1
+ITEM0464,Very,Household,Low Fat,9.13,91.39,0.015,OUT049,Large,Tier 1,Supermarket Type2,14277.59,17,4.2
+ITEM0465,Affect,Bakery,Low Fat,0.54,253.84,0.045,OUT010,Large,Tier 2,Supermarket Type2,19430.16,56,3.9
+ITEM0466,Low,Vegetables,Low Fat,6.08,158.28,0.132,OUT018,Small,Tier 1,Grocery Store,10166.48,36,4.3
+ITEM0467,Activity,Snacks,Low Fat,9.93,176.18,0.245,OUT018,Small,Tier 3,Supermarket Type2,19855.99,15,4.2
+ITEM0468,These,Bakery,Regular,4.66,229.55,0.034,OUT013,Large,Tier 1,Grocery Store,11871.51,24,4.9
+ITEM0469,Project,Household,Regular,5.01,178.42,0.153,OUT010,Large,Tier 2,Supermarket Type1,18104.59,44,4.7
+ITEM0470,Upon,Bakery,Regular,8.89,485.67,0.202,OUT010,Medium,Tier 2,Supermarket Type2,2178.52,49,2.7
+ITEM0471,Eye,Snacks,Low Fat,1.41,246.76,0.031,OUT018,Medium,Tier 2,Supermarket Type2,6183.11,25,4.7
+ITEM0472,History,Frozen Foods,Regular,8.56,169.65,0.119,OUT018,Large,Tier 2,Supermarket Type1,13844.95,21,3.9
+ITEM0473,Seek,Household,Low Fat,1.75,251.26,0.213,OUT049,Medium,Tier 1,Grocery Store,4006.82,15,4.6
+ITEM0474,Role,Household,Low Fat,6.94,61.15,0.217,OUT049,Small,Tier 1,Supermarket Type1,568.83,31,3.5
+ITEM0475,Quality,Frozen Foods,Low Fat,0.79,42.12,0.149,OUT018,Large,Tier 3,Grocery Store,7806.21,54,3.5
+ITEM0476,Especially,Vegetables,Low Fat,3.54,118.18,0.099,OUT010,Large,Tier 1,Grocery Store,13196.8,15,4.7
+ITEM0477,Politics,Beverages,Low Fat,7.78,132.95,0.157,OUT010,Medium,Tier 3,Supermarket Type2,12441.04,21,4.5
+ITEM0478,Raise,Bakery,Low Fat,5.72,379.83,0.154,OUT010,Large,Tier 3,Grocery Store,16875.6,44,4.3
+ITEM0479,Our,Snacks,Regular,9.86,206.13,0.066,OUT027,Small,Tier 2,Supermarket Type2,9316.67,14,3.8
+ITEM0480,Day,Dairy,Regular,0.72,407.93,0.185,OUT010,Medium,Tier 2,Supermarket Type1,7725.88,11,3.7
+ITEM0481,Concern,Bakery,Regular,8.89,376.2,0.031,OUT013,Medium,Tier 1,Supermarket Type2,5655.36,59,3.3
+ITEM0482,Process,Snacks,Low Fat,7.42,240.09,0.037,OUT013,Large,Tier 2,Supermarket Type2,12189.34,20,4.6
+ITEM0483,Future,Dairy,Low Fat,6.51,305.34,0.147,OUT010,Small,Tier 1,Supermarket Type1,17415.36,57,4.2
+ITEM0484,Recently,Dairy,Regular,3.26,27.12,0.113,OUT010,Medium,Tier 3,Grocery Store,1310.1,37,2.6
+ITEM0485,Budget,Fruits,Low Fat,2.1,363.08,0.214,OUT013,Small,Tier 3,Grocery Store,17955.2,23,4.5
+ITEM0486,Family,Snacks,Low Fat,4.28,123.44,0.084,OUT049,Medium,Tier 2,Supermarket Type2,7548.23,26,4.5
+ITEM0487,Human,Household,Regular,9.09,222.14,0.242,OUT027,Medium,Tier 2,Supermarket Type2,5803.38,34,3.6
+ITEM0488,Entire,Vegetables,Low Fat,0.86,367.57,0.094,OUT013,Small,Tier 3,Supermarket Type1,11064.08,13,4.2
+ITEM0489,Democratic,Bakery,Regular,5.04,242.94,0.186,OUT013,Small,Tier 3,Supermarket Type1,7852.35,17,3.3
+ITEM0490,Watch,Household,Regular,9.92,351.79,0.162,OUT049,Medium,Tier 1,Grocery Store,5972.84,24,4.6
+ITEM0491,But,Vegetables,Low Fat,4.16,402.73,0.21,OUT010,Small,Tier 1,Supermarket Type1,12835.29,58,3.1
+ITEM0492,Wear,Household,Regular,3.26,488.18,0.011,OUT013,Large,Tier 1,Supermarket Type1,11952.61,48,3.3
+ITEM0493,Friend,Fruits,Regular,0.71,369.9,0.11,OUT018,Large,Tier 1,Supermarket Type1,16873.96,10,4.2
+ITEM0494,Memory,Household,Regular,9.12,478.06,0.161,OUT049,Small,Tier 3,Supermarket Type1,12586.04,47,4.1
+ITEM0495,True,Frozen Foods,Regular,2.16,441.47,0.094,OUT018,Medium,Tier 2,Grocery Store,6216.52,38,4.6
+ITEM0496,Perhaps,Fruits,Regular,7.72,246.35,0.081,OUT010,Medium,Tier 3,Supermarket Type2,19635.78,34,4.7
+ITEM0497,Character,Dairy,Low Fat,5.15,471.8,0.177,OUT013,Small,Tier 2,Grocery Store,14406.68,56,4.2
+ITEM0498,Little,Frozen Foods,Regular,9.19,180.5,0.039,OUT049,Large,Tier 3,Supermarket Type2,8121.26,23,3.7
+ITEM0499,Risk,Frozen Foods,Regular,3.92,160.74,0.042,OUT027,Large,Tier 2,Supermarket Type1,530.52,48,2.7
+ITEM0500,Pretty,Frozen Foods,Regular,6.53,154.6,0.228,OUT049,Medium,Tier 1,Grocery Store,626.1,18,4.9
+ITEM0501,Not,Snacks,Regular,3.87,453.27,0.179,OUT049,Small,Tier 1,Supermarket Type1,4645.77,26,4.0
+ITEM0502,Those,Fruits,Low Fat,3.5,133.05,0.249,OUT027,Large,Tier 3,Grocery Store,5948.99,55,4.3
+ITEM0503,About,Bakery,Low Fat,3.47,212.19,0.072,OUT013,Small,Tier 2,Supermarket Type1,5269.22,28,4.2
+ITEM0504,Even,Vegetables,Regular,5.23,439.07,0.211,OUT013,Large,Tier 1,Supermarket Type2,15706.16,43,4.3
+ITEM0505,Low,Vegetables,Regular,3.97,30.69,0.083,OUT013,Small,Tier 1,Supermarket Type2,8157.49,20,2.7
+ITEM0506,Fact,Frozen Foods,Low Fat,1.42,421.05,0.04,OUT049,Large,Tier 3,Grocery Store,13231.16,56,2.7
+ITEM0507,Star,Frozen Foods,Regular,8.06,153.21,0.083,OUT013,Small,Tier 3,Supermarket Type2,10001.66,58,4.7
+ITEM0508,Look,Snacks,Regular,6.34,136.79,0.172,OUT013,Small,Tier 3,Supermarket Type2,13143.85,50,4.1
+ITEM0509,Media,Dairy,Regular,1.65,118.4,0.11,OUT010,Large,Tier 3,Grocery Store,207.44,42,2.9
+ITEM0510,Age,Bakery,Low Fat,3.83,413.06,0.022,OUT027,Large,Tier 1,Grocery Store,8437.87,57,4.2
+ITEM0511,View,Vegetables,Low Fat,7.77,127.29,0.035,OUT010,Large,Tier 3,Supermarket Type2,11165.12,31,2.7
+ITEM0512,Main,Snacks,Low Fat,8.11,406.72,0.024,OUT013,Large,Tier 3,Supermarket Type2,6438.67,54,4.3
+ITEM0513,Line,Frozen Foods,Regular,4.6,460.58,0.23,OUT049,Small,Tier 1,Supermarket Type1,18841.97,50,4.6
+ITEM0514,Number,Snacks,Regular,2.14,181.76,0.084,OUT018,Large,Tier 2,Grocery Store,7864.99,21,4.9
+ITEM0515,Rise,Household,Regular,5.85,153.81,0.098,OUT018,Large,Tier 3,Supermarket Type2,12746.79,59,2.5
+ITEM0516,Property,Vegetables,Low Fat,1.41,227.37,0.057,OUT013,Medium,Tier 3,Supermarket Type1,15057.6,38,3.6
+ITEM0517,Expect,Beverages,Low Fat,9.68,282.29,0.242,OUT027,Large,Tier 1,Supermarket Type1,5110.2,43,4.7
+ITEM0518,Decision,Household,Regular,9.06,141.11,0.148,OUT013,Small,Tier 1,Supermarket Type1,13474.85,12,3.1
+ITEM0519,Thousand,Snacks,Regular,8.88,158.41,0.106,OUT027,Small,Tier 3,Supermarket Type1,2300.67,32,4.2
+ITEM0520,Can,Beverages,Low Fat,7.31,385.79,0.07,OUT018,Small,Tier 2,Grocery Store,1972.59,27,3.9
+ITEM0521,Second,Fruits,Low Fat,1.22,62.32,0.02,OUT010,Large,Tier 3,Supermarket Type1,13436.7,32,4.8
+ITEM0522,Party,Snacks,Regular,4.83,160.49,0.196,OUT013,Small,Tier 3,Supermarket Type1,3319.01,13,4.4
+ITEM0523,Will,Frozen Foods,Low Fat,9.06,147.63,0.087,OUT018,Medium,Tier 2,Supermarket Type2,19318.98,14,3.1
+ITEM0524,Pattern,Fruits,Regular,4.09,259.93,0.066,OUT027,Medium,Tier 2,Supermarket Type2,12691.82,43,4.4
+ITEM0525,Body,Vegetables,Low Fat,2.44,347.08,0.229,OUT013,Medium,Tier 3,Supermarket Type2,4023.52,30,3.9
+ITEM0526,Claim,Snacks,Low Fat,8.95,438.6,0.231,OUT027,Large,Tier 3,Supermarket Type2,13916.05,38,2.8
+ITEM0527,Lot,Frozen Foods,Low Fat,1.15,325.29,0.154,OUT049,Large,Tier 3,Supermarket Type2,9632.35,25,2.9
+ITEM0528,Only,Snacks,Low Fat,8.96,126.74,0.078,OUT013,Small,Tier 3,Supermarket Type1,11695.27,32,4.2
+ITEM0529,Light,Dairy,Low Fat,8.52,294.42,0.154,OUT018,Medium,Tier 3,Supermarket Type1,12276.6,10,2.8
+ITEM0530,Peace,Beverages,Regular,1.12,429.84,0.081,OUT010,Medium,Tier 1,Supermarket Type1,8955.17,59,3.4
+ITEM0531,Land,Dairy,Low Fat,3.22,465.48,0.195,OUT018,Large,Tier 1,Grocery Store,16843.11,52,3.8
+ITEM0532,Power,Frozen Foods,Low Fat,1.69,219.37,0.081,OUT049,Medium,Tier 1,Supermarket Type1,15034.62,36,3.4
+ITEM0533,Threat,Fruits,Regular,1.09,111.93,0.102,OUT018,Large,Tier 3,Supermarket Type1,12569.31,19,3.8
+ITEM0534,Leg,Beverages,Regular,9.21,476.04,0.115,OUT049,Small,Tier 3,Supermarket Type1,16952.41,40,2.8
+ITEM0535,Message,Dairy,Low Fat,8.56,375.75,0.152,OUT027,Medium,Tier 1,Supermarket Type1,7951.6,25,2.8
+ITEM0536,For,Frozen Foods,Regular,5.43,412.92,0.133,OUT018,Small,Tier 1,Supermarket Type2,8161.33,17,2.7
+ITEM0537,As,Bakery,Regular,9.2,405.51,0.191,OUT013,Small,Tier 3,Grocery Store,2366.76,34,3.1
+ITEM0538,With,Household,Low Fat,8.98,93.12,0.066,OUT010,Small,Tier 3,Supermarket Type2,14951.71,37,4.1
+ITEM0539,Similar,Bakery,Regular,8.88,139.38,0.014,OUT049,Small,Tier 2,Grocery Store,11240.78,20,3.0
+ITEM0540,Compare,Household,Low Fat,6.2,426.54,0.016,OUT027,Medium,Tier 3,Grocery Store,2774.76,41,4.5
+ITEM0541,Son,Snacks,Low Fat,7.32,147.75,0.137,OUT027,Medium,Tier 1,Supermarket Type2,3558.2,26,3.7
+ITEM0542,While,Snacks,Low Fat,4.66,292.76,0.242,OUT010,Medium,Tier 1,Supermarket Type1,15913.04,49,3.2
+ITEM0543,Simply,Frozen Foods,Low Fat,7.67,263.54,0.129,OUT010,Medium,Tier 2,Supermarket Type1,19713.86,19,4.9
+ITEM0544,Do,Frozen Foods,Low Fat,1.02,335.5,0.243,OUT018,Large,Tier 1,Grocery Store,7552.04,17,4.6
+ITEM0545,Red,Beverages,Low Fat,0.73,322.37,0.116,OUT013,Large,Tier 1,Supermarket Type2,17393.56,46,4.6
+ITEM0546,Always,Vegetables,Regular,9.35,108.25,0.099,OUT049,Small,Tier 1,Grocery Store,17191.33,25,4.5
+ITEM0547,Strong,Household,Regular,8.43,221.31,0.083,OUT027,Medium,Tier 2,Grocery Store,10731.1,12,4.1
+ITEM0548,Any,Dairy,Low Fat,8.61,219.26,0.045,OUT049,Small,Tier 3,Supermarket Type2,3630.88,53,3.4
+ITEM0549,Factor,Beverages,Regular,2.78,250.25,0.036,OUT049,Medium,Tier 3,Supermarket Type2,14329.73,29,3.2
+ITEM0550,Late,Household,Low Fat,8.16,385.56,0.151,OUT049,Small,Tier 1,Supermarket Type1,15116.7,22,4.8
+ITEM0551,Between,Vegetables,Regular,6.16,355.04,0.149,OUT013,Large,Tier 2,Supermarket Type2,8616.8,50,4.3
+ITEM0552,My,Household,Regular,5.26,270.45,0.111,OUT027,Small,Tier 2,Supermarket Type2,2399.96,11,3.5
+ITEM0553,Ago,Bakery,Low Fat,4.26,61.09,0.065,OUT010,Large,Tier 2,Grocery Store,18153.17,46,3.6
+ITEM0554,Fire,Snacks,Low Fat,7.34,446.13,0.064,OUT010,Large,Tier 2,Supermarket Type1,2805.58,31,3.4
+ITEM0555,Suggest,Snacks,Regular,7.57,324.89,0.034,OUT010,Small,Tier 3,Supermarket Type2,16997.44,27,4.3
+ITEM0556,Although,Bakery,Low Fat,6.09,487.78,0.223,OUT018,Medium,Tier 1,Grocery Store,10483.83,48,4.9
+ITEM0557,Provide,Dairy,Low Fat,5.18,359.89,0.082,OUT018,Medium,Tier 2,Grocery Store,19213.6,49,3.2
+ITEM0558,Million,Fruits,Low Fat,2.44,205.93,0.178,OUT018,Large,Tier 2,Grocery Store,16467.75,37,3.0
+ITEM0559,Kind,Snacks,Regular,7.76,315.58,0.223,OUT013,Medium,Tier 1,Supermarket Type1,17294.61,40,3.1
+ITEM0560,Low,Dairy,Low Fat,7.66,175.14,0.115,OUT013,Large,Tier 2,Grocery Store,13018.75,54,3.6
+ITEM0561,Method,Fruits,Low Fat,5.68,213.65,0.122,OUT010,Medium,Tier 1,Supermarket Type1,19491.68,10,2.8
+ITEM0562,Discover,Beverages,Regular,6.42,436.53,0.021,OUT010,Large,Tier 1,Grocery Store,4048.56,11,4.0
+ITEM0563,Protect,Vegetables,Regular,9.57,57.39,0.101,OUT013,Small,Tier 2,Grocery Store,4240.79,23,3.1
+ITEM0564,From,Frozen Foods,Low Fat,6.11,466.64,0.212,OUT018,Large,Tier 2,Supermarket Type1,392.85,10,4.0
+ITEM0565,Year,Snacks,Low Fat,7.13,327.64,0.194,OUT049,Medium,Tier 3,Supermarket Type1,11114.18,25,3.9
+ITEM0566,Young,Frozen Foods,Low Fat,3.31,45.96,0.108,OUT049,Large,Tier 1,Supermarket Type2,4641.59,33,4.8
+ITEM0567,Manager,Snacks,Regular,8.76,361.37,0.127,OUT049,Small,Tier 2,Supermarket Type1,4695.89,22,3.3
+ITEM0568,Seat,Dairy,Regular,9.64,55.93,0.198,OUT018,Small,Tier 1,Supermarket Type1,12112.51,30,2.8
+ITEM0569,Material,Vegetables,Low Fat,8.22,331.34,0.213,OUT018,Medium,Tier 2,Supermarket Type2,19963.46,49,2.7
+ITEM0570,For,Snacks,Regular,8.66,349.68,0.166,OUT013,Small,Tier 2,Grocery Store,13899.77,50,4.5
+ITEM0571,Doctor,Frozen Foods,Low Fat,3.8,446.71,0.109,OUT010,Large,Tier 1,Supermarket Type1,2563.0,22,4.8
+ITEM0572,Behind,Bakery,Low Fat,1.09,460.4,0.208,OUT010,Small,Tier 2,Grocery Store,3404.38,59,2.6
+ITEM0573,Success,Bakery,Regular,6.33,331.23,0.082,OUT049,Large,Tier 2,Supermarket Type1,4242.94,46,3.1
+ITEM0574,Traditional,Bakery,Low Fat,4.22,408.36,0.104,OUT013,Small,Tier 3,Grocery Store,2210.79,59,2.7
+ITEM0575,Establish,Household,Regular,7.04,155.76,0.126,OUT010,Medium,Tier 1,Grocery Store,10366.55,44,2.9
+ITEM0576,Deal,Snacks,Low Fat,9.76,213.47,0.107,OUT013,Medium,Tier 2,Supermarket Type2,7317.14,43,3.0
+ITEM0577,Field,Vegetables,Regular,1.14,405.96,0.224,OUT010,Medium,Tier 2,Grocery Store,18136.0,52,4.4
+ITEM0578,Free,Snacks,Low Fat,0.94,479.88,0.058,OUT027,Small,Tier 3,Grocery Store,17685.35,18,4.2
+ITEM0579,After,Household,Low Fat,8.23,27.52,0.097,OUT049,Large,Tier 2,Supermarket Type1,11560.71,48,2.5
+ITEM0580,Onto,Fruits,Regular,5.53,473.65,0.118,OUT010,Medium,Tier 3,Grocery Store,4648.18,11,4.7
+ITEM0581,Might,Dairy,Regular,9.47,394.11,0.166,OUT010,Medium,Tier 1,Supermarket Type1,17202.01,51,3.8
+ITEM0582,Their,Bakery,Low Fat,0.89,372.61,0.207,OUT010,Large,Tier 3,Supermarket Type2,7153.53,26,2.7
+ITEM0583,Consumer,Household,Regular,7.52,112.26,0.082,OUT049,Large,Tier 3,Grocery Store,18644.53,33,3.2
+ITEM0584,Rate,Frozen Foods,Regular,8.76,253.97,0.216,OUT010,Small,Tier 1,Supermarket Type1,198.97,45,5.0
+ITEM0585,Open,Bakery,Low Fat,3.0,260.52,0.189,OUT027,Medium,Tier 1,Supermarket Type2,18689.22,50,3.6
+ITEM0586,Day,Frozen Foods,Regular,3.97,194.33,0.202,OUT049,Small,Tier 2,Supermarket Type2,730.31,19,2.5
+ITEM0587,Partner,Household,Regular,7.31,73.87,0.179,OUT049,Large,Tier 3,Supermarket Type1,12149.98,53,4.4
+ITEM0588,Feeling,Bakery,Regular,2.11,264.42,0.221,OUT018,Small,Tier 3,Supermarket Type1,1316.25,16,3.2
+ITEM0589,Blood,Fruits,Low Fat,9.89,244.98,0.231,OUT049,Medium,Tier 2,Grocery Store,13817.11,33,3.3
+ITEM0590,Play,Fruits,Regular,1.79,494.99,0.152,OUT027,Small,Tier 3,Supermarket Type1,13870.64,42,4.3
+ITEM0591,Leg,Snacks,Low Fat,9.35,76.39,0.125,OUT013,Medium,Tier 3,Supermarket Type2,6110.05,18,4.1
+ITEM0592,Role,Beverages,Low Fat,1.65,416.51,0.217,OUT010,Small,Tier 3,Supermarket Type2,6812.97,11,4.2
+ITEM0593,Mr,Frozen Foods,Low Fat,1.71,231.07,0.183,OUT010,Large,Tier 3,Grocery Store,6509.82,40,3.2
+ITEM0594,Idea,Frozen Foods,Regular,4.64,92.03,0.249,OUT049,Large,Tier 2,Grocery Store,14257.18,45,3.8
+ITEM0595,Become,Frozen Foods,Low Fat,7.23,263.16,0.143,OUT027,Medium,Tier 3,Supermarket Type2,14723.5,31,5.0
+ITEM0596,Outside,Fruits,Regular,8.93,89.5,0.163,OUT049,Small,Tier 1,Supermarket Type2,7686.2,33,4.4
+ITEM0597,Wonder,Vegetables,Low Fat,8.06,395.78,0.222,OUT049,Small,Tier 1,Grocery Store,1184.54,21,4.3
+ITEM0598,Enjoy,Bakery,Low Fat,4.64,301.24,0.057,OUT010,Large,Tier 2,Supermarket Type2,17766.08,56,3.4
+ITEM0599,Hold,Household,Low Fat,0.86,400.74,0.089,OUT010,Large,Tier 1,Supermarket Type1,19854.1,55,3.5
+ITEM0600,Close,Vegetables,Low Fat,6.35,260.9,0.061,OUT027,Large,Tier 3,Supermarket Type1,16173.83,24,2.9
+ITEM0601,Between,Bakery,Low Fat,1.85,55.53,0.064,OUT010,Small,Tier 3,Grocery Store,4017.4,40,4.1
+ITEM0602,Talk,Beverages,Low Fat,4.07,166.19,0.179,OUT049,Small,Tier 1,Supermarket Type2,2434.74,56,3.9
+ITEM0603,Choose,Frozen Foods,Regular,8.35,159.08,0.077,OUT010,Large,Tier 1,Grocery Store,16756.33,15,4.1
+ITEM0604,Least,Bakery,Regular,3.37,312.93,0.062,OUT010,Large,Tier 2,Supermarket Type1,10572.37,20,2.8
+ITEM0605,Next,Snacks,Regular,1.28,134.8,0.05,OUT018,Small,Tier 3,Grocery Store,9515.33,52,4.9
+ITEM0606,Yourself,Fruits,Regular,1.29,117.95,0.041,OUT018,Medium,Tier 2,Supermarket Type1,3402.59,41,3.7
+ITEM0607,Box,Fruits,Regular,7.35,30.29,0.014,OUT013,Large,Tier 2,Supermarket Type1,2701.68,38,3.3
+ITEM0608,World,Vegetables,Low Fat,3.56,147.87,0.037,OUT010,Medium,Tier 1,Supermarket Type1,3921.09,20,3.9
+ITEM0609,Line,Beverages,Regular,5.95,169.68,0.165,OUT049,Small,Tier 1,Supermarket Type1,14654.71,42,3.2
+ITEM0610,Degree,Frozen Foods,Low Fat,7.32,434.74,0.051,OUT013,Large,Tier 2,Grocery Store,14283.01,45,3.5
+ITEM0611,Sign,Fruits,Low Fat,9.19,249.71,0.051,OUT049,Large,Tier 1,Grocery Store,17694.56,29,3.5
+ITEM0612,Quickly,Household,Regular,4.0,24.25,0.23,OUT013,Large,Tier 3,Supermarket Type1,14365.23,32,4.6
+ITEM0613,Movement,Household,Low Fat,2.63,493.26,0.015,OUT049,Medium,Tier 1,Grocery Store,19767.27,29,4.1
+ITEM0614,Time,Fruits,Low Fat,4.37,335.97,0.082,OUT010,Large,Tier 1,Supermarket Type2,11037.38,39,4.1
+ITEM0615,Why,Beverages,Regular,8.69,195.82,0.125,OUT049,Medium,Tier 1,Supermarket Type1,11464.82,50,4.2
+ITEM0616,Part,Vegetables,Regular,1.3,404.14,0.116,OUT010,Large,Tier 2,Supermarket Type1,12360.05,41,3.2
+ITEM0617,Mean,Household,Low Fat,6.13,49.97,0.071,OUT049,Small,Tier 1,Grocery Store,7443.03,10,3.6
+ITEM0618,Decide,Dairy,Regular,6.22,256.51,0.234,OUT027,Medium,Tier 2,Grocery Store,17231.01,26,3.6
+ITEM0619,Network,Dairy,Regular,9.69,208.84,0.249,OUT027,Medium,Tier 2,Supermarket Type1,8981.89,10,2.5
+ITEM0620,Like,Vegetables,Regular,4.91,118.33,0.205,OUT049,Small,Tier 2,Grocery Store,16023.45,36,2.9
+ITEM0621,Third,Bakery,Regular,3.88,432.98,0.062,OUT013,Large,Tier 1,Grocery Store,12627.12,25,4.9
+ITEM0622,Image,Fruits,Low Fat,9.58,218.19,0.068,OUT049,Small,Tier 3,Supermarket Type1,1670.86,51,2.8
+ITEM0623,Teach,Fruits,Low Fat,8.29,449.71,0.166,OUT013,Small,Tier 2,Grocery Store,3574.61,36,4.8
+ITEM0624,Close,Bakery,Regular,7.1,90.96,0.033,OUT013,Small,Tier 2,Supermarket Type1,16492.57,45,4.5
+ITEM0625,Good,Beverages,Low Fat,7.37,256.53,0.23,OUT013,Large,Tier 1,Grocery Store,10334.13,17,4.0
+ITEM0626,Worry,Fruits,Regular,7.29,306.76,0.146,OUT010,Large,Tier 1,Grocery Store,9264.03,16,3.3
+ITEM0627,Attack,Bakery,Regular,6.36,310.89,0.022,OUT013,Small,Tier 3,Supermarket Type1,3193.57,57,3.8
+ITEM0628,Once,Household,Regular,1.84,275.35,0.038,OUT027,Medium,Tier 2,Supermarket Type2,17883.78,12,2.8
+ITEM0629,Area,Bakery,Regular,3.14,118.53,0.156,OUT027,Small,Tier 1,Supermarket Type1,14260.93,22,2.7
+ITEM0630,Side,Fruits,Low Fat,5.1,260.32,0.159,OUT013,Large,Tier 2,Supermarket Type2,6127.02,53,3.4
+ITEM0631,See,Vegetables,Low Fat,8.28,179.15,0.171,OUT027,Medium,Tier 3,Supermarket Type1,1308.31,48,3.8
+ITEM0632,Care,Beverages,Low Fat,5.79,392.34,0.21,OUT018,Small,Tier 1,Supermarket Type1,5586.85,24,4.7
+ITEM0633,Also,Fruits,Low Fat,9.52,158.36,0.111,OUT018,Medium,Tier 1,Supermarket Type1,18438.98,11,2.8
+ITEM0634,Sense,Vegetables,Low Fat,6.96,369.1,0.165,OUT018,Medium,Tier 2,Supermarket Type2,15958.94,42,3.7
+ITEM0635,Involve,Snacks,Low Fat,5.86,250.87,0.196,OUT018,Medium,Tier 1,Grocery Store,13682.3,24,3.7
+ITEM0636,Whom,Bakery,Regular,8.93,129.7,0.103,OUT013,Medium,Tier 3,Supermarket Type2,7351.93,26,4.0
+ITEM0637,Lot,Fruits,Low Fat,9.76,380.61,0.188,OUT010,Medium,Tier 3,Supermarket Type1,11512.13,20,3.4
+ITEM0638,Budget,Bakery,Low Fat,3.12,210.58,0.122,OUT010,Medium,Tier 3,Supermarket Type1,1509.16,42,4.0
+ITEM0639,By,Beverages,Regular,4.02,102.08,0.066,OUT027,Small,Tier 2,Supermarket Type2,13625.28,51,4.4
+ITEM0640,Research,Bakery,Regular,3.94,150.25,0.124,OUT018,Large,Tier 1,Supermarket Type2,17092.7,39,4.0
+ITEM0641,As,Household,Low Fat,0.56,440.28,0.14,OUT013,Small,Tier 2,Supermarket Type2,5387.48,21,3.4
+ITEM0642,Else,Frozen Foods,Regular,4.9,171.4,0.175,OUT013,Large,Tier 3,Grocery Store,9994.34,58,4.9
+ITEM0643,Improve,Beverages,Regular,1.29,443.4,0.24,OUT049,Small,Tier 1,Supermarket Type1,17300.52,17,3.4
+ITEM0644,Available,Vegetables,Low Fat,2.25,373.78,0.065,OUT018,Medium,Tier 1,Supermarket Type1,15203.78,32,4.4
+ITEM0645,Ahead,Vegetables,Regular,9.17,45.0,0.072,OUT018,Small,Tier 3,Grocery Store,7371.24,11,3.3
+ITEM0646,Candidate,Vegetables,Low Fat,4.88,355.52,0.087,OUT018,Medium,Tier 1,Supermarket Type1,15764.71,50,2.6
+ITEM0647,To,Frozen Foods,Low Fat,0.54,187.38,0.244,OUT013,Large,Tier 2,Grocery Store,179.47,13,2.8
+ITEM0648,Knowledge,Bakery,Regular,3.8,461.87,0.018,OUT010,Large,Tier 2,Supermarket Type2,3232.27,36,3.4
+ITEM0649,Mean,Dairy,Regular,1.59,187.7,0.033,OUT018,Medium,Tier 3,Supermarket Type2,10570.09,35,4.2
+ITEM0650,Although,Fruits,Low Fat,2.59,448.11,0.112,OUT013,Large,Tier 3,Supermarket Type2,10639.57,39,4.6
+ITEM0651,Relate,Fruits,Low Fat,3.29,297.08,0.132,OUT027,Large,Tier 2,Supermarket Type1,15322.16,23,4.7
+ITEM0652,Compare,Frozen Foods,Regular,9.05,221.81,0.209,OUT018,Small,Tier 1,Grocery Store,7627.22,10,4.9
+ITEM0653,Herself,Beverages,Regular,1.38,179.42,0.23,OUT049,Medium,Tier 1,Supermarket Type2,9014.85,27,4.6
+ITEM0654,Environmental,Vegetables,Regular,8.52,112.05,0.241,OUT013,Medium,Tier 1,Grocery Store,7737.49,54,4.4
+ITEM0655,Else,Fruits,Regular,1.64,479.01,0.046,OUT049,Medium,Tier 2,Grocery Store,18721.51,10,2.5
+ITEM0656,World,Bakery,Low Fat,6.19,289.99,0.116,OUT027,Small,Tier 3,Grocery Store,11515.76,17,2.9
+ITEM0657,Prove,Fruits,Low Fat,9.21,252.61,0.082,OUT049,Small,Tier 2,Supermarket Type1,11073.19,15,4.6
+ITEM0658,South,Fruits,Low Fat,6.64,259.32,0.051,OUT013,Medium,Tier 2,Supermarket Type2,873.55,13,2.7
+ITEM0659,Turn,Frozen Foods,Regular,6.05,32.16,0.219,OUT018,Medium,Tier 3,Grocery Store,8153.87,43,3.7
+ITEM0660,Large,Fruits,Low Fat,3.03,61.16,0.023,OUT027,Small,Tier 1,Supermarket Type1,16658.13,21,3.5
+ITEM0661,Protect,Snacks,Low Fat,5.27,133.6,0.211,OUT018,Large,Tier 2,Supermarket Type2,5479.82,14,3.1
+ITEM0662,May,Snacks,Low Fat,4.64,418.87,0.036,OUT018,Large,Tier 3,Grocery Store,11301.48,24,2.8
+ITEM0663,Relationship,Beverages,Low Fat,0.75,281.16,0.157,OUT010,Medium,Tier 2,Grocery Store,5249.08,33,2.6
+ITEM0664,Wish,Household,Low Fat,7.72,86.93,0.115,OUT049,Small,Tier 1,Supermarket Type2,1960.41,16,2.9
+ITEM0665,Space,Dairy,Regular,7.77,307.6,0.071,OUT018,Large,Tier 3,Supermarket Type1,9237.91,53,3.3
+ITEM0666,Its,Vegetables,Low Fat,2.46,85.08,0.106,OUT027,Medium,Tier 2,Supermarket Type1,4344.68,55,4.3
+ITEM0667,Course,Fruits,Regular,5.45,366.59,0.049,OUT018,Medium,Tier 1,Supermarket Type2,6793.65,26,3.9
+ITEM0668,Wonder,Fruits,Regular,5.65,385.99,0.079,OUT018,Small,Tier 1,Grocery Store,3404.26,40,4.8
+ITEM0669,Attack,Bakery,Low Fat,7.27,478.4,0.169,OUT010,Medium,Tier 1,Grocery Store,18266.56,26,2.6
+ITEM0670,All,Bakery,Regular,7.92,491.81,0.172,OUT018,Medium,Tier 1,Grocery Store,13464.75,57,3.6
+ITEM0671,Same,Fruits,Regular,4.1,299.72,0.041,OUT027,Medium,Tier 3,Supermarket Type2,14106.52,59,4.7
+ITEM0672,Cost,Dairy,Low Fat,6.93,408.52,0.092,OUT027,Medium,Tier 1,Supermarket Type2,18020.71,31,3.6
+ITEM0673,Will,Household,Low Fat,8.67,394.69,0.062,OUT018,Small,Tier 3,Supermarket Type1,19831.27,24,2.5
+ITEM0674,Ago,Household,Low Fat,3.21,286.82,0.015,OUT010,Large,Tier 1,Supermarket Type2,19313.28,54,3.9
+ITEM0675,Anything,Beverages,Regular,8.11,205.59,0.18,OUT013,Large,Tier 2,Supermarket Type2,11576.77,47,4.9
+ITEM0676,Believe,Beverages,Low Fat,5.61,378.8,0.233,OUT013,Small,Tier 1,Grocery Store,17121.83,47,2.8
+ITEM0677,Work,Fruits,Low Fat,6.95,248.24,0.02,OUT049,Small,Tier 1,Grocery Store,15003.68,46,4.6
+ITEM0678,Bank,Bakery,Low Fat,2.62,351.3,0.077,OUT027,Medium,Tier 3,Supermarket Type2,14895.03,48,2.5
+ITEM0679,Early,Dairy,Regular,3.29,353.64,0.065,OUT013,Medium,Tier 1,Supermarket Type2,8096.31,21,4.7
+ITEM0680,Recent,Dairy,Regular,6.74,389.64,0.122,OUT027,Small,Tier 2,Supermarket Type2,6789.52,35,4.4
+ITEM0681,Month,Snacks,Low Fat,9.63,432.03,0.083,OUT013,Medium,Tier 2,Supermarket Type1,1605.7,44,4.6
+ITEM0682,American,Fruits,Regular,4.56,119.43,0.179,OUT018,Large,Tier 1,Grocery Store,16527.52,53,2.9
+ITEM0683,Speech,Bakery,Regular,3.95,419.55,0.07,OUT049,Small,Tier 2,Grocery Store,10781.83,51,3.5
+ITEM0684,Believe,Vegetables,Regular,7.74,395.04,0.165,OUT018,Large,Tier 2,Supermarket Type1,16262.82,58,3.9
+ITEM0685,Level,Vegetables,Regular,4.82,173.1,0.146,OUT027,Small,Tier 3,Supermarket Type1,16968.7,54,4.8
+ITEM0686,Read,Snacks,Low Fat,1.35,354.92,0.014,OUT013,Medium,Tier 2,Supermarket Type2,19659.75,18,4.9
+ITEM0687,Husband,Fruits,Low Fat,9.46,456.68,0.16,OUT018,Medium,Tier 1,Supermarket Type2,17190.7,36,4.6
+ITEM0688,Town,Bakery,Regular,7.69,470.32,0.113,OUT013,Large,Tier 3,Supermarket Type1,16877.73,47,4.8
+ITEM0689,Course,Vegetables,Low Fat,1.41,26.36,0.231,OUT013,Medium,Tier 1,Grocery Store,14560.58,41,4.4
+ITEM0690,Stand,Dairy,Regular,9.32,61.73,0.23,OUT027,Medium,Tier 2,Supermarket Type1,3895.86,39,4.9
+ITEM0691,Owner,Snacks,Low Fat,4.24,41.24,0.082,OUT049,Large,Tier 2,Supermarket Type2,12167.77,48,4.6
+ITEM0692,Perhaps,Snacks,Low Fat,3.12,464.66,0.232,OUT013,Medium,Tier 3,Grocery Store,6538.76,37,3.4
+ITEM0693,Tv,Frozen Foods,Regular,8.53,187.05,0.213,OUT027,Small,Tier 3,Supermarket Type2,14931.21,28,4.6
+ITEM0694,Section,Beverages,Low Fat,7.74,29.63,0.148,OUT049,Medium,Tier 2,Grocery Store,8369.93,30,2.9
+ITEM0695,Address,Beverages,Regular,7.05,380.41,0.154,OUT013,Large,Tier 1,Grocery Store,16610.97,52,3.5
+ITEM0696,Some,Snacks,Regular,7.8,185.77,0.136,OUT013,Small,Tier 3,Supermarket Type2,8930.49,24,3.1
+ITEM0697,Gas,Beverages,Regular,1.76,74.58,0.072,OUT027,Medium,Tier 1,Grocery Store,19468.92,54,4.3
+ITEM0698,Plant,Snacks,Regular,7.83,318.52,0.01,OUT027,Small,Tier 1,Supermarket Type1,14223.13,34,3.4
+ITEM0699,Win,Beverages,Low Fat,6.35,402.19,0.2,OUT010,Large,Tier 1,Supermarket Type1,15763.92,12,3.4
+ITEM0700,Now,Snacks,Low Fat,4.47,124.0,0.239,OUT010,Large,Tier 2,Supermarket Type1,13434.26,58,3.0
+ITEM0701,Live,Frozen Foods,Regular,6.84,264.71,0.11,OUT049,Large,Tier 2,Supermarket Type1,7228.45,59,4.9
+ITEM0702,Year,Beverages,Regular,4.75,263.06,0.192,OUT027,Small,Tier 2,Supermarket Type2,10797.18,10,4.6
+ITEM0703,Later,Fruits,Low Fat,5.23,349.37,0.098,OUT027,Medium,Tier 2,Supermarket Type2,7463.09,22,4.7
+ITEM0704,Write,Vegetables,Low Fat,2.08,380.36,0.224,OUT013,Large,Tier 2,Supermarket Type2,18778.16,54,2.9
+ITEM0705,Day,Household,Low Fat,4.47,349.36,0.164,OUT027,Small,Tier 1,Supermarket Type1,8989.87,19,4.5
+ITEM0706,Themselves,Household,Regular,8.82,234.98,0.113,OUT018,Large,Tier 1,Supermarket Type2,9238.85,15,2.6
+ITEM0707,College,Bakery,Regular,4.06,189.66,0.084,OUT013,Medium,Tier 1,Supermarket Type1,665.31,36,3.4
+ITEM0708,Together,Vegetables,Regular,3.52,444.39,0.062,OUT010,Small,Tier 2,Grocery Store,1568.75,42,4.7
+ITEM0709,Response,Household,Regular,0.99,190.31,0.25,OUT018,Large,Tier 3,Supermarket Type1,14713.34,28,2.5
+ITEM0710,Attack,Frozen Foods,Low Fat,2.98,434.25,0.172,OUT049,Small,Tier 2,Grocery Store,9884.12,29,4.0
+ITEM0711,Increase,Beverages,Low Fat,8.38,58.36,0.138,OUT013,Small,Tier 2,Grocery Store,9657.5,46,4.9
+ITEM0712,Between,Household,Low Fat,1.18,346.8,0.236,OUT027,Large,Tier 2,Supermarket Type1,18011.29,50,4.8
+ITEM0713,Office,Vegetables,Low Fat,1.95,148.15,0.049,OUT018,Large,Tier 1,Supermarket Type2,7016.64,52,3.0
+ITEM0714,There,Bakery,Low Fat,8.81,221.97,0.231,OUT049,Small,Tier 1,Supermarket Type1,3901.82,37,4.1
+ITEM0715,Lose,Beverages,Low Fat,7.78,343.11,0.05,OUT049,Medium,Tier 2,Supermarket Type2,196.66,30,2.6
+ITEM0716,Training,Snacks,Regular,9.44,139.05,0.025,OUT010,Large,Tier 2,Grocery Store,5291.46,29,2.9
+ITEM0717,Left,Household,Low Fat,8.24,450.47,0.097,OUT013,Small,Tier 1,Grocery Store,2083.32,25,4.2
+ITEM0718,Be,Vegetables,Regular,7.25,298.09,0.221,OUT018,Small,Tier 3,Grocery Store,4503.5,53,4.8
+ITEM0719,Oil,Bakery,Regular,9.5,105.97,0.22,OUT018,Small,Tier 2,Grocery Store,19314.9,51,3.3
+ITEM0720,Measure,Vegetables,Low Fat,0.62,376.12,0.039,OUT027,Medium,Tier 3,Supermarket Type1,11472.02,59,4.9
+ITEM0721,Cost,Snacks,Low Fat,0.87,254.57,0.145,OUT027,Small,Tier 1,Grocery Store,10281.42,52,4.8
+ITEM0722,Race,Beverages,Low Fat,9.08,420.52,0.096,OUT013,Small,Tier 2,Grocery Store,19019.51,15,3.2
+ITEM0723,Draw,Frozen Foods,Regular,2.6,59.4,0.035,OUT010,Small,Tier 1,Grocery Store,15729.12,45,3.5
+ITEM0724,Coach,Household,Regular,1.3,455.39,0.192,OUT018,Large,Tier 3,Grocery Store,15069.76,56,3.8
+ITEM0725,Through,Beverages,Low Fat,4.64,368.92,0.215,OUT027,Small,Tier 1,Supermarket Type2,14973.85,14,4.3
+ITEM0726,Second,Bakery,Regular,8.63,390.73,0.19,OUT010,Small,Tier 1,Grocery Store,16947.19,41,3.9
+ITEM0727,Describe,Dairy,Regular,6.11,369.34,0.242,OUT049,Large,Tier 3,Grocery Store,4110.27,33,2.8
+ITEM0728,Event,Bakery,Low Fat,0.91,437.68,0.016,OUT018,Medium,Tier 3,Supermarket Type2,15064.99,47,4.0
+ITEM0729,Ever,Fruits,Low Fat,4.62,388.87,0.029,OUT027,Small,Tier 3,Supermarket Type1,4189.38,57,4.4
+ITEM0730,Check,Household,Regular,5.79,235.53,0.046,OUT013,Small,Tier 2,Supermarket Type1,8581.64,51,3.3
+ITEM0731,Mission,Dairy,Low Fat,6.73,260.9,0.178,OUT010,Medium,Tier 3,Supermarket Type1,8797.75,49,4.2
+ITEM0732,Green,Household,Regular,9.27,422.19,0.095,OUT027,Large,Tier 2,Supermarket Type1,11481.04,13,3.0
+ITEM0733,Coach,Frozen Foods,Low Fat,8.39,40.56,0.142,OUT049,Medium,Tier 1,Supermarket Type1,19073.5,20,3.8
+ITEM0734,Attention,Frozen Foods,Low Fat,5.76,115.17,0.159,OUT049,Small,Tier 2,Supermarket Type2,19075.28,23,4.5
+ITEM0735,Loss,Snacks,Regular,8.93,434.06,0.095,OUT010,Large,Tier 3,Supermarket Type2,19268.02,19,2.7
+ITEM0736,House,Household,Regular,0.68,173.39,0.085,OUT010,Small,Tier 2,Supermarket Type1,17876.64,40,3.2
+ITEM0737,Happy,Bakery,Regular,1.89,143.54,0.148,OUT049,Large,Tier 3,Grocery Store,16999.58,31,2.7
+ITEM0738,Firm,Bakery,Low Fat,6.09,446.1,0.238,OUT013,Small,Tier 2,Grocery Store,14321.76,39,4.8
+ITEM0739,Way,Vegetables,Regular,6.04,457.8,0.111,OUT013,Small,Tier 2,Supermarket Type2,4796.93,22,3.0
+ITEM0740,Lot,Beverages,Low Fat,8.93,95.05,0.127,OUT049,Small,Tier 2,Supermarket Type2,16014.71,25,3.0
+ITEM0741,Fact,Fruits,Regular,1.72,72.93,0.022,OUT013,Medium,Tier 3,Grocery Store,16017.91,37,3.3
+ITEM0742,Too,Snacks,Regular,5.15,32.11,0.163,OUT027,Small,Tier 3,Supermarket Type1,18462.7,37,3.8
+ITEM0743,Physical,Fruits,Low Fat,3.74,406.5,0.187,OUT010,Medium,Tier 3,Supermarket Type1,3179.8,12,4.2
+ITEM0744,Second,Vegetables,Regular,2.88,268.01,0.224,OUT018,Medium,Tier 3,Grocery Store,584.18,15,3.2
+ITEM0745,National,Household,Regular,4.08,227.44,0.217,OUT049,Medium,Tier 3,Supermarket Type2,10256.96,29,2.5
+ITEM0746,Here,Beverages,Low Fat,4.37,399.41,0.161,OUT049,Medium,Tier 1,Supermarket Type2,6874.98,57,2.5
+ITEM0747,Prove,Snacks,Low Fat,8.45,76.87,0.128,OUT013,Large,Tier 3,Supermarket Type1,8050.37,19,3.3
+ITEM0748,Class,Household,Low Fat,3.95,470.94,0.235,OUT018,Large,Tier 3,Grocery Store,1089.25,22,4.1
+ITEM0749,Tonight,Snacks,Low Fat,5.69,447.6,0.213,OUT010,Medium,Tier 2,Grocery Store,14097.05,27,4.7
+ITEM0750,Mean,Frozen Foods,Regular,5.25,246.6,0.135,OUT010,Large,Tier 1,Supermarket Type1,10699.67,23,3.4
+ITEM0751,Hair,Frozen Foods,Regular,8.93,35.08,0.163,OUT010,Medium,Tier 2,Supermarket Type2,5517.84,58,2.7
+ITEM0752,Trial,Dairy,Regular,4.17,456.45,0.084,OUT018,Small,Tier 2,Grocery Store,15451.72,45,4.8
+ITEM0753,Available,Frozen Foods,Regular,5.93,34.87,0.21,OUT027,Small,Tier 1,Supermarket Type1,18168.48,50,4.3
+ITEM0754,Purpose,Vegetables,Low Fat,9.39,230.92,0.063,OUT027,Large,Tier 3,Supermarket Type2,4294.81,34,4.7
+ITEM0755,Use,Frozen Foods,Low Fat,7.58,55.92,0.242,OUT010,Large,Tier 3,Supermarket Type1,11599.89,17,4.9
+ITEM0756,Science,Household,Regular,1.4,485.15,0.042,OUT049,Medium,Tier 1,Supermarket Type1,17190.2,27,3.4
+ITEM0757,Billion,Bakery,Regular,4.99,289.36,0.239,OUT027,Medium,Tier 1,Supermarket Type2,6988.82,46,3.9
+ITEM0758,While,Household,Low Fat,6.86,414.46,0.204,OUT027,Large,Tier 2,Grocery Store,15816.37,27,4.0
+ITEM0759,Since,Household,Regular,2.76,66.56,0.147,OUT018,Large,Tier 3,Supermarket Type1,5313.92,20,3.3
+ITEM0760,Suddenly,Snacks,Regular,5.74,456.3,0.106,OUT013,Medium,Tier 2,Supermarket Type1,3468.89,37,2.5
+ITEM0761,Kind,Dairy,Low Fat,0.92,146.91,0.131,OUT013,Small,Tier 2,Supermarket Type2,2297.37,11,3.9
+ITEM0762,Lay,Beverages,Low Fat,1.88,218.64,0.153,OUT027,Medium,Tier 1,Supermarket Type2,3791.48,36,2.6
+ITEM0763,Western,Beverages,Low Fat,4.31,230.96,0.067,OUT018,Small,Tier 3,Supermarket Type2,11453.89,57,3.3
+ITEM0764,Door,Bakery,Low Fat,7.05,491.12,0.217,OUT049,Large,Tier 3,Grocery Store,18213.51,33,2.6
+ITEM0765,Maintain,Bakery,Low Fat,2.5,374.06,0.199,OUT013,Medium,Tier 1,Supermarket Type2,12104.4,15,2.9
+ITEM0766,Behavior,Household,Regular,4.16,420.48,0.156,OUT027,Large,Tier 3,Grocery Store,10967.85,29,4.0
+ITEM0767,Six,Fruits,Low Fat,7.01,452.71,0.109,OUT027,Medium,Tier 1,Supermarket Type2,3216.79,16,4.3
+ITEM0768,Impact,Household,Low Fat,5.19,471.62,0.034,OUT049,Small,Tier 1,Supermarket Type1,11783.76,47,4.4
+ITEM0769,Southern,Dairy,Low Fat,4.73,201.53,0.033,OUT018,Large,Tier 3,Grocery Store,19610.42,32,4.9
+ITEM0770,Fly,Household,Regular,8.92,240.69,0.094,OUT010,Small,Tier 2,Supermarket Type1,7633.91,20,3.1
+ITEM0771,Morning,Frozen Foods,Regular,1.86,297.6,0.215,OUT027,Large,Tier 2,Supermarket Type1,18753.25,39,4.9
+ITEM0772,Around,Bakery,Regular,2.16,380.42,0.166,OUT027,Large,Tier 3,Supermarket Type1,5651.54,54,4.1
+ITEM0773,Sure,Frozen Foods,Regular,6.38,109.68,0.06,OUT027,Small,Tier 3,Supermarket Type2,11830.41,58,4.6
+ITEM0774,Walk,Fruits,Regular,2.72,444.48,0.219,OUT018,Large,Tier 3,Grocery Store,3310.07,46,4.8
+ITEM0775,Participant,Dairy,Regular,1.2,469.21,0.085,OUT013,Large,Tier 2,Supermarket Type2,18493.51,58,2.6
+ITEM0776,Sure,Household,Regular,8.99,288.55,0.045,OUT010,Small,Tier 2,Supermarket Type1,1095.88,19,3.0
+ITEM0777,Investment,Dairy,Low Fat,3.26,347.78,0.099,OUT027,Medium,Tier 2,Supermarket Type2,7108.04,40,4.5
+ITEM0778,Head,Snacks,Regular,8.94,45.09,0.169,OUT049,Medium,Tier 1,Grocery Store,11643.59,39,3.0
+ITEM0779,Clearly,Dairy,Regular,9.79,418.25,0.215,OUT018,Small,Tier 3,Supermarket Type1,13156.54,11,3.3
+ITEM0780,Fight,Bakery,Low Fat,0.83,346.57,0.203,OUT018,Medium,Tier 3,Supermarket Type1,2959.33,19,3.4
+ITEM0781,Democrat,Frozen Foods,Regular,8.83,393.4,0.073,OUT013,Large,Tier 1,Grocery Store,13545.32,13,4.4
+ITEM0782,Organization,Beverages,Regular,9.73,426.23,0.105,OUT013,Large,Tier 1,Supermarket Type1,1567.11,17,2.7
+ITEM0783,Marriage,Snacks,Regular,5.87,96.74,0.035,OUT049,Medium,Tier 2,Supermarket Type1,19144.0,48,4.0
+ITEM0784,Try,Beverages,Regular,3.41,230.38,0.207,OUT027,Large,Tier 2,Supermarket Type1,2155.1,15,4.3
+ITEM0785,Office,Frozen Foods,Low Fat,1.31,206.21,0.012,OUT010,Medium,Tier 1,Grocery Store,15139.81,19,3.4
+ITEM0786,Yes,Household,Regular,7.65,121.21,0.11,OUT027,Large,Tier 1,Supermarket Type2,15931.8,48,4.6
+ITEM0787,Animal,Fruits,Low Fat,6.95,160.89,0.132,OUT049,Small,Tier 3,Supermarket Type1,18949.47,48,4.6
+ITEM0788,Many,Household,Regular,5.71,273.32,0.024,OUT010,Small,Tier 1,Grocery Store,9717.09,18,3.6
+ITEM0789,More,Dairy,Low Fat,7.54,312.02,0.242,OUT027,Medium,Tier 1,Supermarket Type1,1004.2,47,4.6
+ITEM0790,Him,Bakery,Low Fat,8.24,448.32,0.061,OUT018,Large,Tier 2,Supermarket Type1,17831.79,30,4.1
+ITEM0791,Small,Vegetables,Regular,1.89,273.71,0.225,OUT027,Small,Tier 1,Supermarket Type1,141.61,28,3.7
+ITEM0792,First,Bakery,Low Fat,4.16,369.23,0.216,OUT049,Medium,Tier 2,Grocery Store,12803.87,49,4.3
+ITEM0793,Ten,Dairy,Low Fat,8.6,74.34,0.04,OUT013,Large,Tier 2,Grocery Store,7876.43,19,4.1
+ITEM0794,Bag,Snacks,Low Fat,2.71,339.81,0.122,OUT027,Large,Tier 1,Grocery Store,16898.42,39,3.6
+ITEM0795,Test,Beverages,Low Fat,6.36,90.54,0.211,OUT013,Small,Tier 3,Supermarket Type1,14146.56,33,4.4
+ITEM0796,Car,Dairy,Regular,6.23,426.87,0.066,OUT049,Medium,Tier 3,Supermarket Type2,11746.67,40,5.0
+ITEM0797,Dream,Bakery,Low Fat,1.78,212.56,0.154,OUT010,Medium,Tier 2,Grocery Store,1089.26,23,2.9
+ITEM0798,Week,Fruits,Regular,6.08,395.13,0.208,OUT018,Large,Tier 1,Grocery Store,7512.61,30,3.7
+ITEM0799,Then,Snacks,Regular,3.42,462.66,0.148,OUT013,Large,Tier 3,Supermarket Type2,12423.23,27,4.6
+ITEM0800,Hit,Beverages,Low Fat,1.71,193.02,0.127,OUT049,Small,Tier 1,Supermarket Type1,2257.27,37,2.8
+ITEM0801,Unit,Beverages,Regular,4.62,240.62,0.027,OUT010,Small,Tier 3,Grocery Store,3866.17,30,2.6
+ITEM0802,Knowledge,Beverages,Low Fat,7.6,259.54,0.058,OUT013,Medium,Tier 3,Grocery Store,17830.55,50,5.0
+ITEM0803,Sign,Frozen Foods,Low Fat,7.5,123.28,0.109,OUT018,Small,Tier 3,Supermarket Type1,15816.11,27,4.5
+ITEM0804,Live,Snacks,Regular,9.21,461.44,0.149,OUT018,Large,Tier 3,Supermarket Type1,19572.92,28,2.9
+ITEM0805,Between,Fruits,Regular,3.09,395.27,0.2,OUT013,Medium,Tier 3,Supermarket Type2,16037.7,23,4.5
+ITEM0806,Imagine,Snacks,Low Fat,1.81,320.89,0.13,OUT027,Small,Tier 1,Supermarket Type2,6115.7,24,2.6
+ITEM0807,Ago,Frozen Foods,Regular,1.53,397.38,0.032,OUT018,Medium,Tier 3,Grocery Store,7221.34,19,4.2
+ITEM0808,Type,Bakery,Low Fat,8.83,366.77,0.177,OUT018,Small,Tier 2,Supermarket Type1,2652.72,10,4.9
+ITEM0809,Design,Dairy,Regular,7.11,311.39,0.164,OUT010,Large,Tier 3,Grocery Store,16542.23,41,5.0
+ITEM0810,Appear,Bakery,Regular,9.98,165.03,0.218,OUT010,Large,Tier 3,Grocery Store,18990.36,18,4.9
+ITEM0811,We,Fruits,Low Fat,1.01,349.19,0.082,OUT027,Small,Tier 1,Supermarket Type2,7407.95,55,3.4
+ITEM0812,Energy,Bakery,Regular,7.55,431.84,0.162,OUT010,Medium,Tier 3,Supermarket Type2,16822.44,35,2.7
+ITEM0813,Everybody,Vegetables,Low Fat,5.65,468.83,0.089,OUT027,Medium,Tier 1,Grocery Store,19369.53,28,4.2
+ITEM0814,Force,Beverages,Regular,3.76,25.02,0.214,OUT027,Large,Tier 1,Grocery Store,11040.71,43,3.5
+ITEM0815,Onto,Frozen Foods,Low Fat,6.12,340.55,0.226,OUT010,Small,Tier 1,Supermarket Type1,7524.33,43,3.7
+ITEM0816,That,Household,Low Fat,8.49,121.59,0.044,OUT010,Large,Tier 2,Grocery Store,6547.85,44,3.8
+ITEM0817,Off,Snacks,Low Fat,0.75,459.96,0.078,OUT013,Medium,Tier 3,Supermarket Type2,4755.91,22,2.6
+ITEM0818,Effort,Bakery,Low Fat,0.8,267.52,0.115,OUT049,Medium,Tier 2,Supermarket Type1,10443.15,37,4.5
+ITEM0819,Together,Vegetables,Regular,9.9,339.28,0.034,OUT027,Large,Tier 2,Supermarket Type2,19209.41,34,2.9
+ITEM0820,Always,Fruits,Regular,5.83,251.02,0.037,OUT049,Medium,Tier 1,Supermarket Type2,16191.95,15,4.3
+ITEM0821,Store,Dairy,Low Fat,5.24,442.73,0.188,OUT049,Medium,Tier 2,Supermarket Type1,13081.97,15,3.9
+ITEM0822,First,Dairy,Low Fat,8.08,294.21,0.167,OUT027,Small,Tier 2,Grocery Store,5920.0,58,2.9
+ITEM0823,Range,Beverages,Regular,4.06,231.15,0.043,OUT013,Large,Tier 1,Supermarket Type1,16366.38,42,5.0
+ITEM0824,Population,Bakery,Low Fat,3.12,179.95,0.052,OUT049,Medium,Tier 3,Supermarket Type1,15649.19,42,3.0
+ITEM0825,Minute,Household,Regular,1.28,207.45,0.084,OUT049,Large,Tier 2,Grocery Store,7927.84,57,4.4
+ITEM0826,Brother,Beverages,Regular,5.45,342.42,0.057,OUT027,Large,Tier 3,Supermarket Type1,2549.38,27,3.6
+ITEM0827,Arm,Fruits,Low Fat,2.13,367.9,0.175,OUT010,Small,Tier 1,Supermarket Type2,3764.03,35,4.9
+ITEM0828,Respond,Vegetables,Regular,4.58,39.87,0.173,OUT010,Medium,Tier 2,Grocery Store,14047.16,55,2.8
+ITEM0829,Marriage,Beverages,Regular,2.41,48.36,0.026,OUT013,Large,Tier 3,Supermarket Type2,16987.75,14,4.3
+ITEM0830,Significant,Frozen Foods,Regular,5.79,327.74,0.079,OUT013,Medium,Tier 2,Supermarket Type2,19135.05,29,3.8
+ITEM0831,Large,Beverages,Low Fat,0.83,22.83,0.237,OUT010,Small,Tier 3,Supermarket Type2,6192.08,27,3.1
+ITEM0832,Responsibility,Frozen Foods,Regular,6.15,70.25,0.219,OUT013,Small,Tier 3,Supermarket Type2,14066.49,39,3.6
+ITEM0833,Direction,Snacks,Regular,8.0,88.77,0.085,OUT013,Large,Tier 2,Supermarket Type1,15946.58,11,4.2
+ITEM0834,Military,Fruits,Regular,6.78,478.64,0.076,OUT013,Small,Tier 1,Supermarket Type2,12920.14,44,2.7
+ITEM0835,Can,Household,Low Fat,5.35,127.37,0.181,OUT013,Large,Tier 3,Supermarket Type1,17597.12,24,3.2
+ITEM0836,Experience,Vegetables,Regular,7.68,484.36,0.197,OUT010,Small,Tier 1,Supermarket Type2,16443.04,27,4.2
+ITEM0837,Thus,Household,Low Fat,7.52,428.93,0.011,OUT027,Small,Tier 2,Grocery Store,6302.17,39,4.4
+ITEM0838,Who,Frozen Foods,Low Fat,8.83,248.76,0.136,OUT027,Medium,Tier 3,Grocery Store,3682.64,53,2.9
+ITEM0839,Sit,Household,Low Fat,2.07,486.78,0.241,OUT010,Large,Tier 2,Supermarket Type2,8119.41,39,2.7
+ITEM0840,Down,Bakery,Low Fat,3.07,241.69,0.149,OUT010,Large,Tier 2,Supermarket Type2,13821.61,20,3.8
+ITEM0841,Herself,Vegetables,Regular,4.24,361.46,0.237,OUT027,Large,Tier 2,Supermarket Type2,18898.87,19,3.8
+ITEM0842,Cell,Beverages,Low Fat,2.51,354.97,0.116,OUT010,Medium,Tier 2,Supermarket Type1,17525.11,28,5.0
+ITEM0843,Goal,Dairy,Regular,0.79,351.33,0.184,OUT013,Medium,Tier 1,Supermarket Type2,8691.3,53,4.0
+ITEM0844,Board,Vegetables,Low Fat,8.1,217.04,0.14,OUT013,Large,Tier 1,Supermarket Type1,817.72,46,4.5
+ITEM0845,Put,Fruits,Low Fat,2.89,171.51,0.11,OUT010,Large,Tier 1,Supermarket Type2,12954.23,31,2.7
+ITEM0846,Since,Snacks,Low Fat,7.16,266.57,0.029,OUT018,Small,Tier 1,Supermarket Type1,18296.02,39,3.6
+ITEM0847,Meet,Frozen Foods,Low Fat,1.84,225.11,0.069,OUT049,Small,Tier 3,Supermarket Type2,15206.49,48,2.5
+ITEM0848,Rather,Beverages,Regular,4.35,245.19,0.204,OUT018,Small,Tier 2,Grocery Store,8720.01,53,4.5
+ITEM0849,Will,Frozen Foods,Low Fat,9.97,158.34,0.078,OUT013,Medium,Tier 1,Grocery Store,19053.28,43,4.6
+ITEM0850,Describe,Frozen Foods,Low Fat,9.7,233.93,0.169,OUT010,Medium,Tier 2,Grocery Store,6160.56,30,2.7
+ITEM0851,Chance,Snacks,Low Fat,3.85,74.58,0.034,OUT018,Small,Tier 2,Supermarket Type2,19881.76,27,3.2
+ITEM0852,Form,Household,Regular,9.52,99.8,0.035,OUT013,Medium,Tier 1,Supermarket Type1,12626.37,19,4.1
+ITEM0853,Rich,Household,Regular,5.37,426.21,0.188,OUT010,Medium,Tier 2,Supermarket Type1,19689.82,20,2.6
+ITEM0854,Management,Household,Regular,7.76,489.38,0.025,OUT018,Small,Tier 1,Supermarket Type1,6946.07,37,4.5
+ITEM0855,Same,Frozen Foods,Low Fat,6.88,123.22,0.151,OUT013,Medium,Tier 2,Supermarket Type2,9688.35,55,3.8
+ITEM0856,Floor,Snacks,Low Fat,7.79,400.4,0.119,OUT013,Small,Tier 1,Supermarket Type2,9270.3,27,2.7
+ITEM0857,Should,Snacks,Regular,6.35,339.19,0.11,OUT049,Large,Tier 1,Grocery Store,17426.08,35,4.7
+ITEM0858,East,Vegetables,Low Fat,6.41,52.14,0.037,OUT013,Large,Tier 3,Grocery Store,1165.7,42,4.7
+ITEM0859,List,Vegetables,Low Fat,9.19,161.66,0.03,OUT049,Small,Tier 3,Supermarket Type1,11483.42,54,3.6
+ITEM0860,Order,Snacks,Regular,7.35,74.21,0.105,OUT010,Large,Tier 3,Grocery Store,16018.69,53,4.6
+ITEM0861,Decision,Vegetables,Low Fat,2.97,483.75,0.242,OUT018,Large,Tier 1,Supermarket Type1,14821.83,48,3.7
+ITEM0862,Important,Dairy,Regular,1.11,344.93,0.247,OUT013,Medium,Tier 1,Grocery Store,18644.49,24,3.1
+ITEM0863,Sing,Dairy,Regular,1.15,414.36,0.011,OUT013,Large,Tier 1,Supermarket Type1,11011.71,50,3.1
+ITEM0864,Program,Bakery,Regular,2.19,490.54,0.1,OUT049,Medium,Tier 2,Grocery Store,3092.91,23,2.9
+ITEM0865,Hour,Fruits,Low Fat,0.66,405.79,0.176,OUT027,Large,Tier 1,Supermarket Type2,18229.15,59,2.8
+ITEM0866,Such,Fruits,Low Fat,2.38,34.97,0.157,OUT010,Medium,Tier 2,Supermarket Type2,1164.82,27,4.4
+ITEM0867,Your,Frozen Foods,Regular,3.99,320.2,0.186,OUT049,Medium,Tier 3,Supermarket Type2,12362.84,52,4.7
+ITEM0868,Book,Frozen Foods,Low Fat,4.4,290.3,0.061,OUT049,Small,Tier 2,Supermarket Type2,19506.93,55,3.2
+ITEM0869,Level,Fruits,Regular,8.22,428.13,0.052,OUT049,Medium,Tier 3,Supermarket Type2,3583.05,18,3.9
+ITEM0870,None,Vegetables,Low Fat,4.19,75.24,0.243,OUT027,Small,Tier 3,Supermarket Type1,4813.14,15,3.3
+ITEM0871,Wear,Frozen Foods,Regular,3.14,365.23,0.105,OUT049,Medium,Tier 1,Grocery Store,5572.99,51,2.6
+ITEM0872,Democrat,Vegetables,Regular,7.6,65.24,0.135,OUT027,Small,Tier 2,Grocery Store,2909.85,35,4.7
+ITEM0873,Magazine,Vegetables,Regular,4.3,362.5,0.168,OUT049,Large,Tier 3,Supermarket Type1,15874.93,23,5.0
+ITEM0874,Policy,Bakery,Regular,2.72,236.86,0.11,OUT018,Large,Tier 3,Supermarket Type1,17039.58,28,4.7
+ITEM0875,Computer,Frozen Foods,Regular,5.99,125.14,0.071,OUT010,Medium,Tier 3,Supermarket Type1,10076.12,13,4.5
+ITEM0876,Glass,Dairy,Low Fat,9.91,129.71,0.047,OUT027,Large,Tier 1,Grocery Store,18255.99,54,3.7
+ITEM0877,Drug,Bakery,Regular,3.55,243.25,0.026,OUT049,Small,Tier 2,Grocery Store,4183.87,42,2.7
+ITEM0878,Government,Beverages,Regular,2.57,440.54,0.123,OUT018,Medium,Tier 2,Supermarket Type1,4180.99,10,3.5
+ITEM0879,Weight,Fruits,Low Fat,6.46,368.91,0.123,OUT027,Medium,Tier 3,Grocery Store,3920.37,24,3.7
+ITEM0880,Window,Bakery,Regular,1.16,128.5,0.201,OUT027,Small,Tier 1,Supermarket Type2,16852.75,44,4.5
+ITEM0881,Billion,Vegetables,Regular,6.35,352.14,0.153,OUT049,Small,Tier 3,Supermarket Type1,5084.24,31,4.0
+ITEM0882,Guess,Frozen Foods,Low Fat,6.89,320.27,0.052,OUT049,Small,Tier 3,Supermarket Type1,3791.51,54,3.8
+ITEM0883,Oil,Fruits,Low Fat,4.67,177.34,0.101,OUT027,Small,Tier 2,Supermarket Type2,15461.77,16,4.1
+ITEM0884,About,Snacks,Regular,3.45,37.09,0.221,OUT013,Medium,Tier 1,Grocery Store,3883.5,15,2.8
+ITEM0885,Decision,Vegetables,Regular,7.81,352.62,0.153,OUT018,Medium,Tier 2,Supermarket Type2,6554.82,54,3.9
+ITEM0886,Trade,Snacks,Regular,1.02,358.37,0.238,OUT049,Medium,Tier 3,Supermarket Type1,17852.97,11,2.6
+ITEM0887,Stop,Household,Regular,7.09,25.82,0.094,OUT010,Small,Tier 2,Supermarket Type2,13726.53,20,3.5
+ITEM0888,Present,Dairy,Regular,1.62,299.84,0.238,OUT049,Medium,Tier 2,Grocery Store,18042.47,27,4.9
+ITEM0889,Wife,Vegetables,Regular,8.15,449.39,0.162,OUT010,Large,Tier 2,Grocery Store,7011.03,34,4.7
+ITEM0890,Protect,Dairy,Regular,4.38,92.97,0.216,OUT018,Medium,Tier 3,Grocery Store,15842.93,29,4.9
+ITEM0891,Special,Beverages,Low Fat,7.44,312.35,0.137,OUT010,Small,Tier 1,Grocery Store,4691.62,25,3.1
+ITEM0892,Shoulder,Household,Low Fat,3.19,56.55,0.192,OUT049,Large,Tier 3,Supermarket Type2,13649.95,26,3.0
+ITEM0893,Member,Beverages,Regular,5.65,324.73,0.067,OUT018,Medium,Tier 3,Supermarket Type2,8402.53,30,4.6
+ITEM0894,Pick,Fruits,Regular,7.85,125.62,0.016,OUT027,Small,Tier 1,Supermarket Type1,15730.14,33,3.8
+ITEM0895,Move,Vegetables,Regular,1.62,311.43,0.094,OUT018,Large,Tier 3,Supermarket Type1,9232.77,44,2.5
+ITEM0896,Goal,Beverages,Regular,5.57,418.54,0.086,OUT013,Medium,Tier 1,Supermarket Type1,6290.03,17,3.9
+ITEM0897,Network,Household,Low Fat,8.11,152.46,0.128,OUT049,Large,Tier 1,Grocery Store,19420.71,17,4.9
+ITEM0898,Brother,Vegetables,Low Fat,8.9,197.39,0.086,OUT027,Small,Tier 1,Supermarket Type2,4372.61,34,4.3
+ITEM0899,Understand,Fruits,Regular,9.29,450.13,0.159,OUT010,Large,Tier 3,Supermarket Type2,17407.69,27,3.1
+ITEM0900,Few,Beverages,Low Fat,5.58,344.35,0.208,OUT027,Medium,Tier 3,Grocery Store,18539.7,41,4.9
+ITEM0901,Growth,Vegetables,Regular,0.95,202.18,0.175,OUT013,Medium,Tier 3,Supermarket Type2,11592.71,55,3.2
+ITEM0902,Situation,Dairy,Regular,2.96,77.16,0.13,OUT010,Large,Tier 1,Supermarket Type2,8746.49,47,4.6
+ITEM0903,Spend,Dairy,Low Fat,9.61,20.56,0.102,OUT027,Small,Tier 3,Supermarket Type2,14979.06,29,3.3
+ITEM0904,Campaign,Vegetables,Low Fat,8.06,269.67,0.121,OUT013,Small,Tier 3,Supermarket Type1,14036.47,45,3.3
+ITEM0905,Audience,Beverages,Regular,4.45,330.26,0.194,OUT013,Small,Tier 2,Supermarket Type2,11597.82,28,3.2
+ITEM0906,Relate,Snacks,Low Fat,1.89,244.11,0.218,OUT027,Small,Tier 1,Supermarket Type1,6190.99,16,2.5
+ITEM0907,More,Bakery,Regular,4.7,427.91,0.194,OUT049,Medium,Tier 3,Grocery Store,14412.81,21,4.2
+ITEM0908,Interview,Beverages,Regular,6.27,485.92,0.117,OUT049,Medium,Tier 2,Supermarket Type2,1146.14,40,3.0
+ITEM0909,Option,Vegetables,Low Fat,6.23,81.74,0.211,OUT018,Large,Tier 3,Supermarket Type1,11213.9,58,2.6
+ITEM0910,Cell,Household,Regular,2.23,232.16,0.237,OUT018,Small,Tier 2,Grocery Store,8524.08,57,3.9
+ITEM0911,Specific,Household,Regular,5.78,270.49,0.017,OUT010,Large,Tier 1,Grocery Store,4673.54,53,2.5
+ITEM0912,Up,Dairy,Low Fat,1.7,188.05,0.05,OUT018,Medium,Tier 3,Supermarket Type1,15814.35,16,4.6
+ITEM0913,Compare,Beverages,Low Fat,6.12,85.44,0.194,OUT018,Small,Tier 2,Grocery Store,11773.69,33,4.7
+ITEM0914,Help,Dairy,Regular,3.64,159.48,0.135,OUT027,Medium,Tier 3,Supermarket Type1,7560.95,53,3.8
+ITEM0915,Actually,Fruits,Regular,4.38,401.6,0.078,OUT027,Large,Tier 1,Supermarket Type2,6073.96,34,3.9
+ITEM0916,Teacher,Snacks,Regular,2.43,491.76,0.171,OUT010,Medium,Tier 3,Supermarket Type2,15760.29,36,4.5
+ITEM0917,Contain,Bakery,Low Fat,8.38,224.39,0.069,OUT013,Medium,Tier 2,Supermarket Type2,14141.55,18,3.9
+ITEM0918,Ball,Bakery,Regular,8.7,405.41,0.19,OUT018,Large,Tier 2,Supermarket Type2,11607.78,41,3.7
+ITEM0919,Million,Household,Low Fat,2.0,154.53,0.2,OUT049,Small,Tier 2,Supermarket Type1,3059.26,11,3.9
+ITEM0920,Quickly,Bakery,Regular,9.72,406.12,0.054,OUT018,Large,Tier 2,Grocery Store,13267.72,14,3.8
+ITEM0921,Edge,Beverages,Regular,2.02,419.63,0.15,OUT013,Small,Tier 2,Grocery Store,12911.7,43,3.1
+ITEM0922,May,Fruits,Low Fat,6.48,262.54,0.216,OUT013,Large,Tier 3,Supermarket Type2,11574.33,36,3.2
+ITEM0923,Should,Fruits,Regular,6.32,393.15,0.178,OUT049,Large,Tier 1,Supermarket Type2,18567.67,31,4.1
+ITEM0924,Likely,Dairy,Regular,5.79,487.22,0.099,OUT027,Small,Tier 3,Supermarket Type2,1358.55,25,3.3
+ITEM0925,Provide,Bakery,Regular,9.46,148.76,0.123,OUT013,Large,Tier 3,Supermarket Type1,18414.37,49,4.2
+ITEM0926,Large,Fruits,Regular,2.82,462.45,0.013,OUT049,Medium,Tier 1,Supermarket Type1,13718.72,15,4.8
+ITEM0927,Concern,Frozen Foods,Low Fat,0.85,141.63,0.035,OUT013,Large,Tier 3,Supermarket Type2,12604.96,19,3.1
+ITEM0928,Pull,Dairy,Regular,1.75,96.07,0.073,OUT027,Small,Tier 1,Grocery Store,7019.42,34,4.1
+ITEM0929,Policy,Bakery,Low Fat,1.09,285.74,0.09,OUT013,Medium,Tier 1,Supermarket Type1,3910.39,48,3.6
+ITEM0930,When,Bakery,Regular,1.28,221.24,0.243,OUT013,Medium,Tier 3,Supermarket Type1,18596.62,50,3.7
+ITEM0931,Modern,Bakery,Low Fat,4.44,184.74,0.179,OUT013,Medium,Tier 3,Supermarket Type2,2953.87,10,2.6
+ITEM0932,Argue,Beverages,Regular,8.48,104.65,0.048,OUT049,Large,Tier 1,Grocery Store,2662.26,45,3.7
+ITEM0933,Hundred,Dairy,Low Fat,7.12,361.24,0.181,OUT027,Small,Tier 2,Supermarket Type2,5537.41,26,3.2
+ITEM0934,Manage,Fruits,Regular,3.0,235.85,0.049,OUT018,Small,Tier 1,Supermarket Type2,2783.8,38,4.1
+ITEM0935,Later,Snacks,Low Fat,7.7,47.66,0.203,OUT010,Medium,Tier 2,Supermarket Type1,12921.83,22,4.4
+ITEM0936,Enough,Fruits,Regular,2.16,231.36,0.114,OUT013,Large,Tier 1,Supermarket Type1,12255.88,19,4.3
+ITEM0937,Hand,Bakery,Regular,3.84,405.79,0.099,OUT013,Medium,Tier 2,Supermarket Type2,6559.02,22,2.7
+ITEM0938,Training,Fruits,Low Fat,6.23,267.47,0.151,OUT018,Large,Tier 2,Supermarket Type1,13072.94,21,4.4
+ITEM0939,Protect,Household,Low Fat,6.86,205.87,0.229,OUT049,Small,Tier 1,Supermarket Type1,12911.12,26,3.6
+ITEM0940,Drug,Snacks,Regular,6.24,73.74,0.108,OUT027,Small,Tier 3,Supermarket Type1,6344.41,32,4.3
+ITEM0941,Window,Frozen Foods,Low Fat,7.37,350.79,0.073,OUT018,Large,Tier 3,Grocery Store,8347.44,25,4.4
+ITEM0942,Fund,Snacks,Low Fat,7.7,373.62,0.039,OUT018,Large,Tier 2,Supermarket Type1,1160.1,34,4.0
+ITEM0943,Style,Fruits,Regular,1.2,472.97,0.033,OUT018,Large,Tier 1,Supermarket Type1,12656.72,29,3.3
+ITEM0944,Paper,Fruits,Low Fat,3.08,353.42,0.099,OUT027,Medium,Tier 3,Supermarket Type1,19263.17,22,4.3
+ITEM0945,Reduce,Bakery,Low Fat,7.09,105.07,0.231,OUT013,Large,Tier 1,Grocery Store,13393.33,35,3.4
+ITEM0946,Size,Dairy,Low Fat,7.7,157.1,0.136,OUT013,Medium,Tier 3,Grocery Store,15071.56,11,3.8
+ITEM0947,No,Dairy,Regular,5.22,420.13,0.195,OUT013,Small,Tier 3,Supermarket Type1,14072.35,56,4.4
+ITEM0948,Adult,Vegetables,Low Fat,8.6,302.54,0.042,OUT013,Medium,Tier 3,Grocery Store,6825.68,23,3.9
+ITEM0949,Exactly,Beverages,Regular,3.63,111.92,0.089,OUT018,Large,Tier 2,Supermarket Type1,19505.16,54,3.0
+ITEM0950,Figure,Dairy,Low Fat,1.76,195.45,0.078,OUT018,Small,Tier 3,Supermarket Type2,19814.48,16,4.8
+ITEM0951,Green,Household,Regular,3.93,349.92,0.133,OUT049,Small,Tier 3,Grocery Store,455.98,30,2.7
+ITEM0952,President,Snacks,Regular,2.42,207.31,0.043,OUT010,Medium,Tier 2,Supermarket Type1,4210.89,36,2.7
+ITEM0953,Reduce,Bakery,Low Fat,3.12,107.47,0.136,OUT049,Large,Tier 2,Grocery Store,10966.13,50,4.9
+ITEM0954,Growth,Beverages,Regular,4.25,63.04,0.075,OUT018,Large,Tier 2,Supermarket Type1,12809.73,33,3.9
+ITEM0955,Get,Fruits,Regular,7.9,183.69,0.069,OUT018,Large,Tier 2,Grocery Store,18284.94,14,3.1
+ITEM0956,Food,Vegetables,Regular,2.15,87.44,0.037,OUT010,Medium,Tier 3,Grocery Store,4525.26,33,3.3
+ITEM0957,Financial,Frozen Foods,Regular,3.43,115.32,0.063,OUT018,Small,Tier 3,Supermarket Type2,9933.56,12,3.5
+ITEM0958,While,Vegetables,Regular,4.75,323.65,0.143,OUT049,Medium,Tier 2,Grocery Store,3188.69,58,4.9
+ITEM0959,Finish,Bakery,Regular,0.5,417.96,0.202,OUT049,Large,Tier 1,Supermarket Type2,17805.99,43,4.5
+ITEM0960,Pattern,Beverages,Low Fat,1.73,87.62,0.207,OUT010,Small,Tier 3,Supermarket Type2,5561.85,27,4.7
+ITEM0961,Whether,Fruits,Regular,5.76,184.0,0.037,OUT049,Small,Tier 3,Supermarket Type2,18258.27,32,4.7
+ITEM0962,Now,Dairy,Regular,9.6,175.07,0.098,OUT013,Small,Tier 1,Supermarket Type1,7302.72,56,3.9
+ITEM0963,Direction,Bakery,Low Fat,4.54,173.05,0.241,OUT027,Medium,Tier 1,Grocery Store,11238.22,25,4.2
+ITEM0964,Theory,Vegetables,Low Fat,2.28,263.57,0.19,OUT027,Small,Tier 3,Supermarket Type2,811.53,22,2.8
+ITEM0965,Whatever,Vegetables,Regular,2.68,246.39,0.012,OUT027,Medium,Tier 2,Grocery Store,5366.0,36,3.1
+ITEM0966,Experience,Beverages,Regular,8.32,94.0,0.041,OUT027,Small,Tier 1,Grocery Store,7519.34,37,3.3
+ITEM0967,Write,Beverages,Low Fat,5.69,69.59,0.224,OUT027,Medium,Tier 2,Grocery Store,1334.69,16,3.4
+ITEM0968,Pull,Frozen Foods,Regular,1.94,308.94,0.048,OUT010,Large,Tier 3,Supermarket Type1,13002.88,59,2.6
+ITEM0969,Play,Vegetables,Regular,2.32,434.13,0.17,OUT013,Large,Tier 2,Grocery Store,4982.05,15,4.4
+ITEM0970,Government,Vegetables,Regular,1.22,36.33,0.174,OUT027,Small,Tier 3,Supermarket Type2,7938.86,34,2.9
+ITEM0971,Learn,Frozen Foods,Low Fat,9.91,132.58,0.13,OUT018,Medium,Tier 3,Supermarket Type1,12730.47,33,3.5
+ITEM0972,Dog,Vegetables,Regular,1.16,151.45,0.136,OUT027,Medium,Tier 1,Supermarket Type1,13113.49,30,3.2
+ITEM0973,Writer,Household,Low Fat,5.46,427.36,0.051,OUT018,Large,Tier 1,Supermarket Type1,13673.04,14,3.8
+ITEM0974,Address,Household,Low Fat,6.72,159.68,0.168,OUT018,Large,Tier 3,Supermarket Type2,17218.51,53,3.3
+ITEM0975,Treatment,Dairy,Low Fat,3.61,349.41,0.162,OUT018,Large,Tier 3,Grocery Store,1248.18,32,3.4
+ITEM0976,Fear,Beverages,Low Fat,9.75,212.11,0.085,OUT027,Medium,Tier 3,Grocery Store,8835.18,23,3.9
+ITEM0977,Example,Frozen Foods,Regular,0.8,342.74,0.084,OUT010,Medium,Tier 2,Supermarket Type2,19621.12,26,4.2
+ITEM0978,Method,Dairy,Regular,0.85,42.25,0.034,OUT010,Small,Tier 2,Supermarket Type2,7846.41,47,3.2
+ITEM0979,Former,Vegetables,Regular,2.59,277.14,0.147,OUT010,Small,Tier 1,Supermarket Type2,5928.11,21,3.5
+ITEM0980,Check,Frozen Foods,Low Fat,9.6,189.56,0.033,OUT049,Large,Tier 1,Grocery Store,5244.44,28,4.8
+ITEM0981,Human,Bakery,Low Fat,6.8,42.87,0.162,OUT027,Small,Tier 1,Grocery Store,16954.08,53,3.1
+ITEM0982,Budget,Snacks,Regular,9.82,498.06,0.127,OUT049,Large,Tier 2,Supermarket Type2,9332.23,39,4.1
+ITEM0983,Great,Snacks,Low Fat,4.01,242.04,0.095,OUT049,Small,Tier 1,Grocery Store,15367.27,24,4.9
+ITEM0984,Road,Frozen Foods,Regular,8.18,421.25,0.245,OUT027,Medium,Tier 2,Supermarket Type2,7899.56,31,2.9
+ITEM0985,Employee,Bakery,Low Fat,3.47,463.16,0.121,OUT013,Small,Tier 2,Supermarket Type1,9174.44,40,3.2
+ITEM0986,Miss,Vegetables,Regular,2.16,355.1,0.027,OUT010,Medium,Tier 2,Supermarket Type2,17913.73,41,2.7
+ITEM0987,Hit,Bakery,Low Fat,2.16,200.24,0.165,OUT049,Small,Tier 2,Grocery Store,5862.65,19,2.8
+ITEM0988,Window,Household,Low Fat,8.29,128.45,0.028,OUT013,Medium,Tier 2,Grocery Store,3559.19,39,3.8
+ITEM0989,Find,Snacks,Low Fat,5.12,182.48,0.167,OUT018,Medium,Tier 1,Grocery Store,17606.96,41,3.3
+ITEM0990,Peace,Vegetables,Regular,0.96,314.43,0.023,OUT049,Small,Tier 2,Grocery Store,4741.59,46,3.3
+ITEM0991,Health,Beverages,Regular,6.88,292.02,0.176,OUT010,Small,Tier 3,Supermarket Type2,11087.09,33,4.4
+ITEM0992,Various,Snacks,Low Fat,1.71,361.16,0.223,OUT018,Large,Tier 1,Supermarket Type2,16918.4,26,3.2
+ITEM0993,Church,Dairy,Low Fat,0.98,280.58,0.212,OUT013,Medium,Tier 3,Grocery Store,3254.49,22,4.9
+ITEM0994,Various,Snacks,Regular,1.36,144.98,0.024,OUT018,Large,Tier 1,Supermarket Type2,15050.52,13,2.9
+ITEM0995,Easy,Household,Low Fat,1.08,218.2,0.064,OUT027,Medium,Tier 1,Grocery Store,9824.24,34,2.6
+ITEM0996,Often,Dairy,Low Fat,4.03,469.37,0.244,OUT010,Large,Tier 3,Supermarket Type2,1899.14,26,3.4
+ITEM0997,Way,Frozen Foods,Regular,9.78,481.09,0.058,OUT027,Small,Tier 1,Supermarket Type1,10802.87,37,3.4
+ITEM0998,Value,Snacks,Regular,1.54,232.11,0.238,OUT027,Medium,Tier 3,Supermarket Type1,9426.32,10,4.7
+ITEM0999,Feeling,Beverages,Low Fat,9.96,335.28,0.162,OUT049,Medium,Tier 3,Supermarket Type1,1137.34,55,3.3
+ITEM1000,College,Beverages,Low Fat,9.23,414.69,0.05,OUT013,Medium,Tier 3,Grocery Store,15245.66,53,3.4
