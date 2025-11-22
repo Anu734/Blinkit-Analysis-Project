@@ -1,5 +1,5 @@
 # ==============================
-# 📦 Importing Required Libraries
+#  Importing Required Libraries
 # ==============================
 import pandas as pd
 import numpy as np
@@ -11,7 +11,7 @@ sns.set(style='whitegrid', palette='muted')
 plt.rcParams['figure.figsize'] = (8, 5)
 
 # ==============================
-# 📥 Load Dataset
+# Load Dataset
 # ==============================
 df = pd.read_csv("blinkit_dataset.csv")
 
@@ -32,10 +32,10 @@ df['Outlet_Size'] = df['Outlet_Size'].fillna(df['Outlet_Size'].mode()[0])
 df['Outlet_Type'] = df['Outlet_Type'].fillna(df['Outlet_Type'].mode()[0])
 
 # ==============================
-# 📊 Data Visualization Section
+# Data Visualization Section
 # ==============================
 
-# 1️⃣ Distribution of Item MRP
+#  Distribution of Item MRP
 plt.figure()
 sns.histplot(df['Item_MRP (₹)'], bins=25, kde=True, color='teal')
 plt.title('Distribution of Item MRP')
@@ -44,7 +44,7 @@ plt.ylabel('Frequency')
 plt.tight_layout()
 plt.show()
 
-# 2️⃣ Distribution of Item Outlet Sales
+#  Distribution of Item Outlet Sales
 plt.figure()
 sns.histplot(df['Item_Outlet_Sales (₹)'], bins=25, kde=True, color='orange')
 plt.title('Distribution of Item Outlet Sales')
@@ -53,7 +53,7 @@ plt.ylabel('Frequency')
 plt.tight_layout()
 plt.show()
 
-# 3️⃣ Relationship: Item MRP vs Sales
+#  Relationship: Item MRP vs Sales
 plt.figure()
 sns.scatterplot(
     x='Item_MRP (₹)',
@@ -68,7 +68,7 @@ plt.ylabel('Item Outlet Sales (₹)')
 plt.tight_layout()
 plt.show()
 
-# 4️⃣ Average Sales by Outlet Type
+#  Average Sales by Outlet Type
 plt.figure()
 sns.barplot(
     x='Outlet_Type',
@@ -82,7 +82,7 @@ plt.xticks(rotation=30)
 plt.tight_layout()
 plt.show()
 
-# 5️⃣ Sales Distribution by Outlet Size & Type
+#  Sales Distribution by Outlet Size & Type
 plt.figure()
 sns.boxplot(
     x='Outlet_Size',
@@ -98,7 +98,7 @@ plt.legend(title='Outlet Type', loc='upper right')
 plt.tight_layout()
 plt.show()
 
-# 6️⃣ Total Sales by Item Type (Descending)
+#  Total Sales by Item Type (Descending)
 plt.figure()
 item_sales = (
     df.groupby('Item_Type')['Item_Outlet_Sales (₹)']
@@ -117,7 +117,7 @@ plt.xticks(rotation=45, ha='right')
 plt.tight_layout()
 plt.show()
 
-# 7️⃣ Correlation Matrix of Numeric Columns
+#  Correlation Matrix of Numeric Columns
 plt.figure(figsize=(10,8))
 corr = df.select_dtypes(include=np.number).corr()
 sns.heatmap(corr, annot=True, cmap='coolwarm', fmt='.2f')
@@ -126,7 +126,7 @@ plt.tight_layout()
 plt.show()
 
 # ==============================
-# 🕒 Sales Trend Over Time
+#  Sales Trend Over Time
 # ==============================
 
 # If no date column exists, generate synthetic dates for trend analysis
@@ -149,7 +149,7 @@ plt.tight_layout()
 plt.show()
 
 # ==============================
-# 📈 Top 10 Outlets by Average Sales
+# Top 10 Outlets by Average Sales
 # ==============================
 plt.figure()
 top_outlets = (
